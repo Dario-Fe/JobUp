@@ -1,5 +1,5 @@
 {
-  "aggiornato": "14/04/2026 10:37",
+  "aggiornato": "14/04/2026 10:42",
   "comune": "Verbania",
   "distanzaKm": 50,
   "totale": 100,
@@ -1769,24 +1769,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1089"
     },
     {
-      "id": 2086,
-      "numAnnuncio": "20262086",
-      "titolo": "Geometra/Tecnico",
-      "azienda": "B.F. - S.R.L.",
-      "comune": "Cossato",
-      "provincia": "Biella",
-      "cpi": "Biella",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Tecnici Della Gestione Di Cantieri Edili",
-      "qualifica": "AZIENDA BIELLESE SPECIALIZZATA NEL RITIRO, LAVORAZIONE E PRODUZIONE DI RIFIUTI INERTI NON PERICOLOSI, CERCA 1 GEOMETRA/TECNICO DA INSERIRE IN ORGANICO.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "29/04/2026",
-      "dataPubblicazione": "14/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.5700824530765,8.18060639387467&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2086"
-    },
-    {
       "id": 1267,
       "numAnnuncio": "20261267",
       "titolo": "Impiegata/O Agenzia Di Assicurazione",
@@ -1803,6 +1785,24 @@
       "dataPubblicazione": "26/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.5700824530765,8.18060639387467&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1267"
+    },
+    {
+      "id": 447,
+      "numAnnuncio": "2026447",
+      "titolo": "Operaio Di Produzione Art.1 L.68/99",
+      "azienda": "Erreesse S.R.L.",
+      "comune": "Grignasco",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Meccanici Collaudatori",
+      "qualifica": "OPERAIO ADDETTO AL COLLAUDO E ALL'ASSEMBLAGGIO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "25/02/2026",
+      "dataPubblicazione": "26/01/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.681946935305,8.33982388169203&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=447"
     }
   ]
 }
