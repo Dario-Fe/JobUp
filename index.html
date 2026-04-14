@@ -87,15 +87,40 @@
     .logo-testo { font-size: 1.125rem; font-weight: 700; color: #fff; }
     .logo-testo span { color: var(--blu-400); }
 
+    .header-info {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.15rem;
+    }
+
     .header-badge {
       font-family: var(--mono);
-      font-size: 0.65rem;
+      font-size: 0.62rem;
       background: var(--blu-700);
       color: var(--blu-400);
-      padding: 3px 8px;
+      padding: 2px 8px;
       border-radius: 20px;
       border: 1px solid var(--blu-600);
       white-space: nowrap;
+    }
+
+    .header-subinfo {
+      font-size: 0.62rem;
+      color: var(--grigio);
+      display: flex;
+      gap: 0.6rem;
+      white-space: nowrap;
+    }
+
+    .header-subinfo a {
+      color: var(--blu-400);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .header-subinfo a:hover {
+      text-decoration: underline;
     }
 
     /* ── Barra ricerca ───────────────────────────────────────────── */
@@ -541,7 +566,13 @@
         </div>
         <span class="logo-testo">Job<span>Up</span></span>
       </a>
-      <div class="header-badge" id="ultimo-agg">Caricamento…</div>
+      <div class="header-info">
+        <div class="header-badge" id="ultimo-agg">Caricamento…</div>
+        <div class="header-subinfo">
+          <span>Fonte dati: Agenzia Piemonte Lavoro</span>
+          <a href="infoutili.html">Info utili</a>
+        </div>
+      </div>
     </div>
   </header>
 
