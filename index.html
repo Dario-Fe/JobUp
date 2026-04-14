@@ -319,16 +319,17 @@
     .stato-centro .icona { font-size: 2.5rem; margin-bottom: 0.75rem; }
     .stato-centro p { font-size: 0.9rem; }
 
-    .spinner {
-      width: 36px; height: 36px;
-      border: 3px solid var(--bordo);
-      border-top-color: var(--blu-500);
-      border-radius: 50%;
-      animation: spin 0.7s linear infinite;
+    .loading-icon {
+      width: 48px; height: 48px;
       margin: 0 auto 1rem;
+      animation: pulse 1.5s ease-in-out infinite;
     }
 
-    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse {
+      0% { transform: scale(0.95); opacity: 0.8; }
+      50% { transform: scale(1.05); opacity: 1; }
+      100% { transform: scale(0.95); opacity: 0.8; }
+    }
 
     /* ── Pannello dettaglio ──────────────────────────────────────── */
     .overlay {
@@ -569,7 +570,15 @@
   <!-- Lista -->
   <main>
     <div id="stato-caricamento" class="stato-centro">
-      <div class="spinner"></div>
+      <div class="loading-icon">
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="64" height="64" rx="14" fill="#1d4ed8"/>
+          <rect x="16" y="26" width="32" height="22" rx="3" fill="none" stroke="#fff" stroke-width="3"/>
+          <path d="M24 26v-4a8 8 0 0116 0v4" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+          <line x1="32" y1="33" x2="32" y2="39" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="29" y1="36" x2="35" y2="36" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+        </svg>
+      </div>
       <p>Carico le offerte…</p>
     </div>
 
