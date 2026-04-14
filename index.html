@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JobUp VCO – Offerte di lavoro</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── Reset & variabili ──────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --blu-900: #0f172a;
+      --blu-800: #1e293b;
+      --blu-700: #1e3a5f;
+      --blu-600: #1d4ed8;
+      --blu-500: #3b82f6;
+      --blu-400: #60a5fa;
+      --blu-100: #dbeafe;
+      --blu-50:  #eff6ff;
+      --grigio:  #94a3b8;
+      --testo:   #e2e8f0;
+      --sfondo:  #0f172a;
+      --card-bg: #1e293b;
+      --bordo:   #334155;
+      --verde:   #22c55e;
+      --arancio: #f97316;
+      --rosso:   #ef4444;
+      --raggio:  12px;
+      --font:    'DM Sans', sans-serif;
+      --mono:    'DM Mono', monospace;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font);
+      background: var(--sfondo);
+      color: var(--testo);
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────── */
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      border-bottom: 1px solid var(--bordo);
+      padding: 0 1.25rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      gap: 1rem;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      text-decoration: none;
+    }
+
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: var(--blu-600);
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .logo-testo { font-size: 1.125rem; font-weight: 700; color: #fff; }
+    .logo-testo span { color: var(--blu-400); }
+
+    .header-badge {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      background: var(--blu-700);
+      color: var(--blu-400);
+      padding: 3px 8px;
+      border-radius: 20px;
+      border: 1px solid var(--blu-600);
+      white-space: nowrap;
+    }
+
+    /* ── Barra ricerca ───────────────────────────────────────────── */
+    .search-bar {
+      max-width: 720px;
+      margin: 1.25rem auto 0;
+      padding: 0 1.25rem;
+    }
+
+    .search-wrap {
+      position: relative;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px; top: 50%;
+      transform: translateY(-50%);
+      color: var(--grigio);
+      pointer-events: none;
+      font-size: 1rem;
+    }
+
+    #cerca {
+      width: 100%;
+      background: var(--card-bg);
+      border: 1px solid var(--bordo);
+      border-radius: var(--raggio);
+      color: var(--testo);
+      font-family: var(--font);
+      font-size: 0.9rem;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    #cerca::placeholder { color: var(--grigio); }
+    #cerca:focus { border-color: var(--blu-500); }
+
+    /* ── Meta info ───────────────────────────────────────────────── */
+    .meta-bar {
+      max-width: 720px;
+      margin: 0.75rem auto 0;
+      padding: 0 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .meta-info {
+      font-size: 0.78rem;
+      color: var(--grigio);
+    }
+
+    .meta-info strong { color: var(--blu-400); }
+
+    .filtri {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .filtro-btn {
+      font-family: var(--font);
+      font-size: 0.72rem;
+      font-weight: 500;
+      padding: 4px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--bordo);
+      background: transparent;
+      color: var(--grigio);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .filtro-btn:hover,
+    .filtro-btn.attivo {
+      background: var(--blu-600);
+      border-color: var(--blu-600);
+      color: #fff;
+    }
+
+    /* ── Lista annunci ───────────────────────────────────────────── */
+    main {
+      max-width: 720px;
+      margin: 1rem auto 5rem;
+      padding: 0 1.25rem;
+    }
+
+    .lista-annunci {
+      display: flex;
+      flex-direction: column;
+      gap: 0.625rem;
+    }
+
+    /* ── Card annuncio ───────────────────────────────────────────── */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--bordo);
+      border-radius: var(--raggio);
+      padding: 1rem;
+      cursor: pointer;
+      transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: var(--blu-600);
+      border-radius: 3px 0 0 3px;
+      opacity: 0;
+      transition: opacity 0.15s;
+    }
+
+    .card:hover {
+      border-color: var(--blu-500);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(59,130,246,0.15);
+    }
+
+    .card:hover::before { opacity: 1; }
+    .card:active { transform: translateY(0); }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.75rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-titolo {
+      font-size: 0.925rem;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1.35;
+    }
+
+    .badge-contratto {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 500;
+      padding: 3px 7px;
+      border-radius: 4px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .badge-indeterminato {
+      background: rgba(34,197,94,0.15);
+      color: var(--verde);
+      border: 1px solid rgba(34,197,94,0.3);
+    }
+
+    .badge-determinato {
+      background: rgba(249,115,22,0.12);
+      color: var(--arancio);
+      border: 1px solid rgba(249,115,22,0.25);
+    }
+
+    .badge-altro {
+      background: rgba(148,163,184,0.1);
+      color: var(--grigio);
+      border: 1px solid var(--bordo);
+    }
+
+    .badge-l68 {
+      background: rgba(96,165,250,0.12);
+      color: var(--blu-400);
+      border: 1px solid rgba(96,165,250,0.25);
+    }
+
+    .card-azienda {
+      font-size: 0.82rem;
+      color: var(--blu-400);
+      font-weight: 500;
+      margin-bottom: 0.35rem;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      font-size: 0.75rem;
+      color: var(--grigio);
+    }
+
+    .card-meta svg {
+      width: 12px; height: 12px;
+      flex-shrink: 0;
+    }
+
+    .card-scadenza {
+      margin-left: auto;
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      color: var(--grigio);
+    }
+
+    .scadenza-vicina { color: var(--rosso) !important; }
+
+    /* ── Stato caricamento / vuoto ───────────────────────────────── */
+    .stato-centro {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--grigio);
+    }
+
+    .stato-centro .icona { font-size: 2.5rem; margin-bottom: 0.75rem; }
+    .stato-centro p { font-size: 0.9rem; }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--bordo);
+      border-top-color: var(--blu-500);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Pannello dettaglio ──────────────────────────────────────── */
+    .overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 200;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s;
+    }
+
+    .overlay.aperto { opacity: 1; pointer-events: all; }
+
+    .pannello {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      max-width: 720px;
+      margin: 0 auto;
+      background: var(--blu-800);
+      border-top: 1px solid var(--bordo);
+      border-radius: 20px 20px 0 0;
+      z-index: 201;
+      transform: translateY(100%);
+      transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+      max-height: 88vh;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .pannello.aperto { transform: translateY(0); }
+
+    .pannello-handle {
+      width: 36px; height: 4px;
+      background: var(--bordo);
+      border-radius: 2px;
+      margin: 12px auto 0;
+    }
+
+    .pannello-header {
+      padding: 1rem 1.25rem 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .pannello-titolo {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.3;
+    }
+
+    .btn-chiudi {
+      background: var(--card-bg);
+      border: 1px solid var(--bordo);
+      color: var(--grigio);
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1rem;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      transition: all 0.15s;
+    }
+
+    .btn-chiudi:hover { color: #fff; border-color: var(--blu-500); }
+
+    .pannello-body {
+      padding: 1rem 1.25rem 1.5rem;
+    }
+
+    .pannello-azienda {
+      font-size: 0.9rem;
+      color: var(--blu-400);
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.625rem;
+      margin-bottom: 1rem;
+    }
+
+    .info-cell {
+      background: var(--card-bg);
+      border: 1px solid var(--bordo);
+      border-radius: 8px;
+      padding: 0.625rem 0.75rem;
+    }
+
+    .info-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--grigio);
+      margin-bottom: 0.2rem;
+    }
+
+    .info-value {
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: var(--testo);
+    }
+
+    .info-cell.full { grid-column: 1 / -1; }
+
+    .qualifica-box {
+      background: var(--card-bg);
+      border: 1px solid var(--bordo);
+      border-radius: 8px;
+      padding: 0.875rem;
+      margin-bottom: 1rem;
+    }
+
+    .qualifica-box .info-label { margin-bottom: 0.5rem; }
+
+    .qualifica-testo {
+      font-size: 0.83rem;
+      color: var(--testo);
+      line-height: 1.6;
+    }
+
+    .pannello-azioni {
+      display: flex;
+      flex-direction: column;
+      gap: 0.625rem;
+    }
+
+    .btn-primario {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      background: var(--blu-600);
+      color: #fff;
+      text-decoration: none;
+      font-family: var(--font);
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 0.875rem;
+      border-radius: var(--raggio);
+      transition: background 0.15s, transform 0.1s;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .btn-primario:hover { background: #2563eb; }
+    .btn-primario:active { transform: scale(0.98); }
+
+    .btn-secondario {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      background: transparent;
+      color: var(--grigio);
+      text-decoration: none;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 0.75rem;
+      border-radius: var(--raggio);
+      border: 1px solid var(--bordo);
+      transition: all 0.15s;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .btn-secondario:hover { color: #fff; border-color: var(--blu-500); }
+
+    .badge-pannello {
+      display: inline-block;
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      padding: 4px 10px;
+      border-radius: 20px;
+      margin-bottom: 0.875rem;
+    }
+
+    /* ── Nessun risultato ────────────────────────────────────────── */
+    #nessun-risultato { display: none; }
+
+    /* ── Responsive ──────────────────────────────────────────────── */
+    @media (max-width: 480px) {
+      .info-grid { grid-template-columns: 1fr; }
+      .info-cell.full { grid-column: 1; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="header-inner">
+      <a class="logo" href="/">
+        <div class="logo-icon">💼</div>
+        <span class="logo-testo">Job<span>Up</span></span>
+      </a>
+      <div class="header-badge" id="ultimo-agg">Caricamento…</div>
+    </div>
+  </header>
+
+  <!-- Ricerca -->
+  <div class="search-bar">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input id="cerca" type="search" placeholder="Cerca per titolo, azienda, comune…" autocomplete="off" />
+    </div>
+  </div>
+
+  <!-- Meta + filtri -->
+  <div class="meta-bar">
+    <div class="meta-info">
+      <strong id="contatore">–</strong> offerte trovate
+      <span id="zona-info"></span>
+    </div>
+    <div class="filtri">
+      <button class="filtro-btn attivo" data-filtro="tutti">Tutti</button>
+      <button class="filtro-btn" data-filtro="indeterminato">Indeterminato</button>
+      <button class="filtro-btn" data-filtro="determinato">Determinato</button>
+      <button class="filtro-btn" data-filtro="l68">L.68/99</button>
+    </div>
+  </div>
+
+  <!-- Lista -->
+  <main>
+    <div id="stato-caricamento" class="stato-centro">
+      <div class="spinner"></div>
+      <p>Carico le offerte…</p>
+    </div>
+
+    <div id="nessun-risultato" class="stato-centro">
+      <div class="icona">🔎</div>
+      <p>Nessuna offerta corrisponde alla ricerca.</p>
+    </div>
+
+    <div class="lista-annunci" id="lista"></div>
+  </main>
+
+  <!-- Overlay dettaglio -->
+  <div class="overlay" id="overlay"></div>
+  <div class="pannello" id="pannello" role="dialog" aria-modal="true">
+    <div class="pannello-handle"></div>
+    <div class="pannello-header">
+      <div class="pannello-titolo" id="det-titolo"></div>
+      <button class="btn-chiudi" id="btn-chiudi" aria-label="Chiudi">✕</button>
+    </div>
+    <div class="pannello-body">
+      <div class="pannello-azienda" id="det-azienda"></div>
+      <div id="det-badge" class="badge-pannello"></div>
+      <div class="info-grid" id="det-grid"></div>
+      <div class="qualifica-box" id="det-qualifica-box" style="display:none">
+        <div class="info-label">Descrizione</div>
+        <div class="qualifica-testo" id="det-qualifica"></div>
+      </div>
+      <div class="pannello-azioni">
+        <a id="btn-fonte" class="btn-primario" href="#" target="_blank" rel="noopener">
+          🔗 Vedi sul portale ufficiale
+        </a>
+        <a id="btn-maps" class="btn-secondario" href="#" target="_blank" rel="noopener" style="display:none">
+          📍 Indicazioni stradali
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ── Stato globale ─────────────────────────────────────────────
+    let tuttiGliAnnunci = [];
+    let filtroAttivo    = 'tutti';
+    let testoRicerca    = '';
+
+    // ── Carica JSON ───────────────────────────────────────────────
+    async function caricaDati() {
+      try {
+        const r = await fetch('annunci.json?t=' + Date.now());
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        const data = await r.json();
+
+        tuttiGliAnnunci = data.annunci || [];
+
+        document.getElementById('ultimo-agg').textContent =
+          'Agg. ' + (data.aggiornato || '–');
+
+        const zona = data.comune
+          ? ` entro ${data.distanzaKm} km da ${data.comune}`
+          : '';
+        document.getElementById('zona-info').textContent = zona;
+
+        document.getElementById('stato-caricamento').style.display = 'none';
+        renderLista();
+
+      } catch (e) {
+        document.getElementById('stato-caricamento').innerHTML =
+          '<div class="icona">⚠️</div><p>Errore nel caricamento delle offerte.<br>Riprova tra qualche minuto.</p>';
+        console.error(e);
+      }
+    }
+
+    // ── Render lista ──────────────────────────────────────────────
+    function renderLista() {
+      const query   = testoRicerca.toLowerCase().trim();
+      const lista   = document.getElementById('lista');
+      const nessuno = document.getElementById('nessun-risultato');
+
+      const filtrati = tuttiGliAnnunci.filter(a => {
+        // Filtro per tipo contratto/categoria
+        if (filtroAttivo === 'indeterminato') {
+          if (!(a.contratto || '').toLowerCase().includes('indeterminato')) return false;
+        } else if (filtroAttivo === 'determinato') {
+          if (!(a.contratto || '').toLowerCase().includes('determinato')) return false;
+        } else if (filtroAttivo === 'l68') {
+          if (a.categoria === 'Offerta ordinaria') return false;
+        }
+
+        // Filtro testo libero
+        if (query) {
+          const haystack = [
+            a.titolo, a.azienda, a.comune,
+            a.provincia, a.contratto, a.profilo
+          ].join(' ').toLowerCase();
+          if (!haystack.includes(query)) return false;
+        }
+
+        return true;
+      });
+
+      document.getElementById('contatore').textContent = filtrati.length;
+      lista.innerHTML = '';
+
+      if (filtrati.length === 0) {
+        nessuno.style.display = 'block';
+        return;
+      }
+      nessuno.style.display = 'none';
+
+      filtrati.forEach(a => {
+        lista.appendChild(creaCard(a));
+      });
+    }
+
+    // ── Crea card ─────────────────────────────────────────────────
+    function creaCard(a) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.setAttribute('role', 'button');
+      card.setAttribute('tabindex', '0');
+
+      const badgeClass  = badgeContratto(a.contratto);
+      const badgeTesto  = badgeTesto_(a.contratto);
+      const scadClasse  = scadenzaVicina(a.dataScadenza) ? ' scadenza-vicina' : '';
+
+      card.innerHTML = `
+        <div class="card-header">
+          <div class="card-titolo">${esc(a.titolo)}</div>
+          <span class="badge-contratto ${badgeClass}">${badgeTesto}</span>
+        </div>
+        <div class="card-azienda">${esc(a.azienda)}</div>
+        <div class="card-footer">
+          <span class="card-meta">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a5 5 0 100 10A5 5 0 008 1zm0 9A4 4 0 118 4a4 4 0 010 6z"/><circle cx="8" cy="8" r="1.5"/></svg>
+            ${esc(a.comune)} (${esc(a.provincia.split(' ')[0])})
+          </span>
+          <span class="card-meta">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M3 3a1 1 0 011-1h8a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V3zm0 5a1 1 0 011-1h8a1 1 0 110 2H4a1 1 0 01-1-1zm1 3a1 1 0 100 2h8a1 1 0 100-2H4z"/></svg>
+            ${esc(a.cpi)}
+          </span>
+          <span class="card-scadenza${scadClasse}">scad. ${esc(a.dataScadenza)}</span>
+        </div>
+      `;
+
+      card.addEventListener('click',   () => apriDettaglio(a));
+      card.addEventListener('keydown', e => { if (e.key === 'Enter') apriDettaglio(a); });
+
+      return card;
+    }
+
+    // ── Dettaglio ─────────────────────────────────────────────────
+    function apriDettaglio(a) {
+      document.getElementById('det-titolo').textContent  = a.titolo;
+      document.getElementById('det-azienda').textContent = a.azienda;
+
+      // Badge categoria
+      const badge = document.getElementById('det-badge');
+      if (a.categoria !== 'Offerta ordinaria') {
+        badge.textContent = a.categoria;
+        badge.className   = 'badge-pannello badge-l68';
+        badge.style.display = 'inline-block';
+      } else {
+        badge.style.display = 'none';
+      }
+
+      // Grid info
+      const grid = document.getElementById('det-grid');
+      const celle = [
+        { label: 'Comune',      value: a.comune },
+        { label: 'Provincia',   value: a.provincia },
+        { label: 'Contratto',   value: a.contratto, full: true },
+        { label: 'Profilo',     value: a.profilo, full: true },
+        { label: 'Centro Imp.', value: a.cpi },
+        { label: 'Scadenza',    value: a.dataScadenza },
+        { label: 'N° Annuncio', value: a.numAnnuncio },
+        { label: 'Pubblicato',  value: a.dataPubblicazione },
+      ];
+
+      grid.innerHTML = celle.filter(c => c.value).map(c => `
+        <div class="info-cell${c.full ? ' full' : ''}">
+          <div class="info-label">${c.label}</div>
+          <div class="info-value">${esc(c.value)}</div>
+        </div>
+      `).join('');
+
+      // Qualifica/descrizione
+      const qBox   = document.getElementById('det-qualifica-box');
+      const qTesto = document.getElementById('det-qualifica');
+      if (a.qualifica && a.qualifica.trim()) {
+        qTesto.textContent  = a.qualifica;
+        qBox.style.display  = 'block';
+      } else {
+        qBox.style.display  = 'none';
+      }
+
+      // Pulsante fonte
+      document.getElementById('btn-fonte').href = a.urlFonte || '#';
+
+      // Pulsante maps
+      const btnMaps = document.getElementById('btn-maps');
+      if (a.mapsUrl) {
+        btnMaps.href          = a.mapsUrl;
+        btnMaps.style.display = 'flex';
+      } else {
+        btnMaps.style.display = 'none';
+      }
+
+      // Apri
+      document.getElementById('overlay').classList.add('aperto');
+      document.getElementById('pannello').classList.add('aperto');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function chiudiDettaglio() {
+      document.getElementById('overlay').classList.remove('aperto');
+      document.getElementById('pannello').classList.remove('aperto');
+      document.body.style.overflow = '';
+    }
+
+    // ── Utility ───────────────────────────────────────────────────
+    function esc(s) {
+      if (!s) return '–';
+      return String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function badgeContratto(c) {
+      if (!c) return 'badge-altro';
+      const cl = c.toLowerCase();
+      if (cl.includes('indeterminato')) return 'badge-indeterminato';
+      if (cl.includes('determinato'))  return 'badge-determinato';
+      return 'badge-altro';
+    }
+
+    function badgeTesto_(c) {
+      if (!c) return '–';
+      const cl = c.toLowerCase();
+      if (cl.includes('indeterminato')) return '∞ Indet.';
+      if (cl.includes('determinato'))  return '⏱ Det.';
+      return c.split(' ')[0];
+    }
+
+    function scadenzaVicina(data) {
+      if (!data) return false;
+      const [g, m, a] = data.split('/').map(Number);
+      const scad  = new Date(a, m - 1, g);
+      const oggi  = new Date();
+      const diff  = (scad - oggi) / 86400000;
+      return diff >= 0 && diff <= 3;
+    }
+
+    // ── Event listeners ───────────────────────────────────────────
+    document.getElementById('cerca').addEventListener('input', e => {
+      testoRicerca = e.target.value;
+      renderLista();
+    });
+
+    document.querySelectorAll('.filtro-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filtro-btn').forEach(b => b.classList.remove('attivo'));
+        btn.classList.add('attivo');
+        filtroAttivo = btn.dataset.filtro;
+        renderLista();
+      });
+    });
+
+    document.getElementById('overlay').addEventListener('click', chiudiDettaglio);
+    document.getElementById('btn-chiudi').addEventListener('click', chiudiDettaglio);
+
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') chiudiDettaglio();
+    });
+
+    // Swipe down per chiudere su mobile
+    let touchStartY = 0;
+    const pannello  = document.getElementById('pannello');
+    pannello.addEventListener('touchstart', e => { touchStartY = e.touches[0].clientY; }, { passive: true });
+    pannello.addEventListener('touchend',   e => {
+      if (e.changedTouches[0].clientY - touchStartY > 80) chiudiDettaglio();
+    }, { passive: true });
+
+    // ── Avvio ─────────────────────────────────────────────────────
+    caricaDati();
+  </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+name: Aggiorna annunci JobUp
+
+on:
+  schedule:
+    # Alle 8:00 ora italiana (UTC+2 in estate = 06:00 UTC)
+    - cron: '0 6 * * *'
+    # Alle 17:00 ora italiana (UTC+2 in estate = 15:00 UTC)
+    - cron: '0 15 * * *'
+  # Permette esecuzione manuale dal tab Actions su GitHub
+  workflow_dispatch:
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Installa Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa dipendenze
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Esegui scraper
+        env:
+          JOBUP_COMUNE: "Verbania"
+          JOBUP_DISTANZA: "50"
+        run: python scraper/scraper_pslp.py
+
+      - name: Commit e push annunci.json
+        run: |
+          git config user.name  "JobUp Bot"
+          git config user.email "jobup-bot@users.noreply.github.com"
+          git add annunci.json
+          # Commit solo se il file è cambiato
+          git diff --staged --quiet || git commit -m "🔄 Aggiorna annunci $(date +'%d/%m/%Y %H:%M')"
+          git push
