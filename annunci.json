@@ -1,5 +1,5 @@
 {
-  "aggiornato": "14/04/2026 13:07",
+  "aggiornato": "14/04/2026 18:05",
   "comune": "Verbania",
   "distanzaKm": 50,
   "totale": 100,
@@ -1175,24 +1175,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1870"
     },
     {
-      "id": 1504,
-      "numAnnuncio": "20261504",
-      "titolo": "Operaio Tessile - Art.1 L.68/99",
-      "azienda": "Dal Dosso Group S.R.L.",
-      "comune": "Armeno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Altri Operai Addetti A Macchinari Dell'Industria Tessile E Delle Confezioni Ed Assimilati",
-      "qualifica": "OPERAIO TESSILE",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "04/04/2026",
-      "dataPubblicazione": "05/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8219811887427,8.43917253708354&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1504"
-    },
-    {
       "id": 2057,
       "numAnnuncio": "20262057",
       "titolo": "Lavapiatti - Art.1 L.68/99",
@@ -1803,6 +1785,24 @@
       "dataPubblicazione": "26/01/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.681946935305,8.33982388169203&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=447"
+    },
+    {
+      "id": 855,
+      "numAnnuncio": "2026855",
+      "titolo": "Impiegato Ufficio Acquisti - Art.1 L.68/99",
+      "azienda": "Erreesse S.R.L.",
+      "comune": "Grignasco",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Gestione Degli Acquisti Di Beni E Servizi",
+      "qualifica": "IMPIEGATO UFFICIO ACQUISTI",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "12/03/2026",
+      "dataPubblicazione": "10/02/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.681946935305,8.33982388169203&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=855"
     }
   ]
 }
