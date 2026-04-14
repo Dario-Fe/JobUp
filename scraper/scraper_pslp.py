@@ -198,9 +198,16 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
 
 
 def salva_json(annunci_raw: list, comune: str, distanza: int):
+    # Ordina per dataStato (decrescente) e idAnnuncio (decrescente)
+    # In questo modo i più recenti appaiono per primi.
+    annunci_raw.sort(
+        key=lambda x: (x.get("dataStato") or "", x.get("idAnnuncio", 0)),
+        reverse=True
+    )
+
     annunci = [costruisci_annuncio(a) for a in annunci_raw]
 
-    # Rimuovi eventuali duplicati per id
+    # Rimuovi eventuali duplicati per id (mantenendo l'ordine)
     visti = set()
     unici = []
     for a in annunci:
