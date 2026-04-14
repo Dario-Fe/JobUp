@@ -14,7 +14,8 @@ import asyncio
 import json
 import argparse
 import os
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from playwright.async_api import async_playwright
 
 BASE_URL   = "https://pslp.regione.piemonte.it"
@@ -207,8 +208,9 @@ def salva_json(annunci_raw: list, comune: str, distanza: int):
             visti.add(a["id"])
             unici.append(a)
 
+    now_italy = datetime.now(ZoneInfo("Europe/Rome"))
     output = {
-        "aggiornato":   datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "aggiornato":   now_italy.strftime("%d/%m/%Y %H:%M"),
         "comune":       comune,
         "distanzaKm":   distanza,
         "totale":       len(unici),
