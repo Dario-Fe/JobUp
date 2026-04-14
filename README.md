@@ -57,4 +57,4 @@ py -3 scraper/scraper_pslp.py --comune "Verbania" --distanza 50
 ## Crediti
 
 Progetto ispirato a [BenzApp](https://github.com/Dario-Fe/BenzApp).  
-Dati: [Agenzia Piemonte Lavoro – pslp.regione.piemonte.it](https://pslp.regione.piemonte.it)
+Dati: [Agenzia Piemonte Lavoro](https://agenziapiemontelavoro.it/centro-per-limpiego/centro-per-limpiego-di-omegna/)
