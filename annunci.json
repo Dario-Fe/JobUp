@@ -1,9 +1,27 @@
 {
-  "aggiornato": "17/04/2026 09:44",
+  "aggiornato": "17/04/2026 17:56",
   "comune": "Verbania",
   "distanzaKm": 50,
   "totale": 100,
   "annunci": [
+    {
+      "id": 2462,
+      "numAnnuncio": "20262462",
+      "titolo": "Oss - Borgosesia",
+      "azienda": "Nuova Assistenza Societa' Cooperativa Sociale Onlus",
+      "comune": "Borgosesia",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Professioni Qualificate Nei Servizi Sanitari E Sociali",
+      "qualifica": "OSS OPERATORI SOCIO SANITARI PER RSA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "17/05/2026",
+      "dataPubblicazione": "17/04/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7169415138534,8.2764295732728&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2462"
+    },
     {
       "id": 2165,
       "numAnnuncio": "20262165",
@@ -1425,24 +1443,6 @@
       "dataPubblicazione": "05/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=740"
-    },
-    {
-      "id": 734,
-      "numAnnuncio": "2026734",
-      "titolo": "Art. 18 Operai Specializzati Elettrici",
-      "azienda": "Galizzi Impianti S.R.L",
-      "comune": "Guardabosone",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Elettricisti Ed Installatori Di Impianti Elettrici Nelle Costruzioni Civili",
-      "qualifica": "OPERAIO/A SPECIALIZZATO ELETTRICO",
-      "categoria": "Collocamento mirato – Art. 18 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
-      "dataPubblicazione": "05/02/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7017145617624,8.25042229896646&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=734"
     },
     {
       "id": 564,
