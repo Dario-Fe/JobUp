@@ -27,7 +27,57 @@ OUTPUT     = os.path.join(os.path.dirname(__file__), "..", "annunci.json")
 
 def costruisci_annuncio(raw: dict) -> dict:
     """Normalizza un annuncio grezzo in un oggetto pulito per la webapp."""
-    id_annuncio = raw.get("idAnnuncio", "")
+    id_raw = raw.get("idAnnuncio") or raw.get("id")
+    try:
+        # Teniamo l'ID come numero se possibile per coerenza, ma lo normalizziamo in stringa per la webapp se necessario
+        id_annuncio = int(id_raw) if id_raw else ""
+    except:
+        id_annuncio = str(id_raw) if id_raw else ""
+
+    # 1. Recupero Azienda con logica raffinata
+    # Priorità: campo azienda esplicito -> denominazione in idAziAnagrafica -> null
+    azienda = raw.get("azienda")
+    if not azienda:
+        anag = raw.get("idAziAnagrafica")
+        if isinstance(anag, dict):
+            azienda = anag.get("denominazione")
+
+    # Se ancora null, fallback su intermediario (CPI)
+    if not azienda:
+        intermed = raw.get("idIntermediario")
+        if isinstance(intermed, dict):
+            azienda = intermed.get("dsIntermediario")
+        else:
+            azienda = raw.get("dsIntermediario") or ""
+
+    comune = raw.get("descrComuneSede")
+    provincia = raw.get("descrProvinciaSede")
+    contratto = raw.get("contratto")
+    qualifica = raw.get("qualifica")
+    profilo = raw.get("dsProfiloIstat")
+
+    # Se mancano, prova a cercarli nelle liste del dettaglio (arricchimento)
+    cond_list = raw.get("condLavorativaOffertaList", [])
+    if cond_list and isinstance(cond_list, list) and len(cond_list) > 0:
+        cond = cond_list[0]
+        if not comune:
+            sede = cond.get("idComuneSedeLavoro", {})
+            comune = sede.get("dsComune")
+            if not provincia:
+                prov = sede.get("idProvincia", {})
+                provincia = prov.get("dsSiglaProvincia") or prov.get("dsProvincia")
+        if not contratto or contratto == "–":
+            rapp = cond.get("idTipoRapportoLavoro", {})
+            contratto = rapp.get("descrTipoRapportoLavoro")
+
+    prof_list = raw.get("profiloRicercatoList", [])
+    if prof_list and isinstance(prof_list, list) and len(prof_list) > 0:
+        prof = prof_list[0]
+        if not qualifica:
+            qualifica = prof.get("dsQualifica")
+        if not profilo:
+            q_istat = prof.get("blpDQualifica", {})
+            profilo = q_istat.get("descrQualifica")
 
     # Badge categoria (L68 art.1 = disabilità, art.18 = altre categorie)
     if raw.get("flgL68Art1") == "S":
@@ -57,13 +107,13 @@ def costruisci_annuncio(raw: dict) -> dict:
         "id":              id_annuncio,
         "numAnnuncio":     raw.get("numAnnuncio") or "",
         "titolo":          (raw.get("titoloVacancy") or "").strip().title(),
-        "azienda":         (raw.get("azienda") or "").strip().title(),
-        "comune":          (raw.get("descrComuneSede") or "").strip().title(),
-        "provincia":       (raw.get("descrProvinciaSede") or "").strip().title(),
+        "azienda":         (azienda or "").strip().title(),
+        "comune":          (comune or "").strip().title(),
+        "provincia":       (provincia or "").strip().title(),
         "cpi":             (raw.get("descrCpi") or raw.get("dsIntermediario") or "").strip().title(),
-        "contratto":       (raw.get("contratto") or "–").strip().title(),
-        "profilo":         (raw.get("dsProfiloIstat") or "").strip().title(),
-        "qualifica":       (raw.get("qualifica") or "").strip(),
+        "contratto":       (contratto or "–").strip().title(),
+        "profilo":         (profilo or "").strip().title(),
+        "qualifica":       (qualifica or "").strip(),
         "categoria":       categoria,
         "stato":           (raw.get("stato") or "").strip(),
         "dataScadenza":    data_scad_fmt,
@@ -73,7 +123,7 @@ def costruisci_annuncio(raw: dict) -> dict:
     }
 
 
-async def scrapa(comune: str, distanza: int, headless: bool) -> list:
+async def scrapa(comune_search: str, distanza: int, headless: bool) -> list:
     tutti = []
 
     async with async_playwright() as p:
@@ -87,18 +137,22 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
         )
         page = await context.new_page()
 
-        # Intercetta richiesta E risposta per catturare headers di sessione
+        # Intercetta richiesta E risposta per catturare headers e payload di sessione
         api_params = {
             "trovato":  False,
             "url_base": None,
             "headers":  {},
+            "payload":  None,
         }
 
         def on_request(request):
-            if "annunci-pslp/consulta-annunci" in request.url:
-                # Salva gli headers della prima richiesta (contengono cookie/auth)
+            if "annunci-pslp/consulta-annunci" in request.url and request.method == "POST":
+                # Salva gli headers e il payload della prima richiesta
                 api_params["url_base"] = request.url.split("?")[0]
                 api_params["headers"]  = dict(request.headers)
+                api_params["payload"]  = request.post_data_json
+                if not api_params["trovato"]:
+                    print(f"[+] Payload intercettato: {api_params['payload']}")
 
         async def on_response(response):
             url = response.url
@@ -126,10 +180,10 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
         await asyncio.sleep(2)
 
         # ── Campo COMUNE (PrimeNG p-dropdown) ────────────────────────
-        print(f"[*] Seleziono comune: {comune}")
+        print(f"[*] Seleziono comune: {comune_search}")
         await page.click("p-dropdown", timeout=10000)
-        await asyncio.sleep(0.8)
-        await page.keyboard.type(comune, delay=100)
+        await asyncio.sleep(1)
+        await page.keyboard.type(comune_search, delay=100)
         await asyncio.sleep(2)
 
         opzioni = page.locator("ul.p-dropdown-items li.p-dropdown-item, .p-dropdown-item")
@@ -141,15 +195,15 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
         else:
             await page.keyboard.press("Enter")
             print("[!] Autocomplete vuoto, premuto Enter")
-        await asyncio.sleep(1)
+        await asyncio.sleep(1.5)
 
         # ── Campo DISTANZA ───────────────────────────────────────────
         print(f"[*] Inserisco distanza: {distanza} km")
-        await page.wait_for_selector("#rangeKM:not([disabled])", timeout=10000)
+        await page.wait_for_selector("#rangeKM:not([disabled])", timeout=15000)
         await page.click("#rangeKM")
         await page.keyboard.press("Control+a")
         await page.keyboard.type(str(distanza))
-        await asyncio.sleep(0.3)
+        await asyncio.sleep(0.5)
 
         # ── CERCA ────────────────────────────────────────────────────
         print("[*] Clicco CERCA...")
@@ -160,19 +214,55 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
         await page.wait_for_load_state("networkidle", timeout=30000)
         await asyncio.sleep(4)
 
-        # ── Paginazione: usa page.request con headers di sessione ────────
+        # ── Funzione di arricchimento (usata per lista iniziale e paginazione) ──
+        async def arricchisci_batch(items_list: list, headers: dict):
+            # Identifica gli incompleti (manca azienda o comune o provincia)
+            mancanti = [i for i in items_list if not i.get("azienda") or not i.get("descrComuneSede")]
+            if not mancanti:
+                return
+
+            print(f"[*] Arricchimento di {len(mancanti)} annunci...")
+            sem = asyncio.Semaphore(5) # Concorrenza limitata
+
+            async def fetch_detail(item):
+                id_an = item.get("idAnnuncio")
+                if not id_an: return
+                async with sem:
+                    try:
+                        det_url = f"{BASE_URL}/pslpbff/api-public/v1/annunci-pslp/get-dettaglio/{id_an}"
+                        # Il dettaglio richiede POST con body vuoto o {}
+                        resp = await page.request.post(det_url, headers=headers, data={}, timeout=15000)
+                        if resp.status == 200:
+                            res_json = await resp.json()
+                            det_data = res_json.get("annuncio", {})
+                            item.update(det_data)
+                        await asyncio.sleep(0.1)
+                    except Exception as e:
+                        print(f"    [!] Errore arricchimento {id_an}: {e}")
+
+            await asyncio.gather(*(fetch_detail(i) for i in mancanti))
+
+        # ── Arricchimento dati lista iniziale ──────────────────────────
+        if tutti:
+            hdrs = dict(api_params.get("headers", {}))
+            hdrs["accept"] = "application/json"
+            await arricchisci_batch(tutti, hdrs)
+
+        # ── Paginazione: usa page.request con payload intercettato ──────
         if api_params["trovato"] and len(tutti) == 100:
             print("[*] Possibili altre pagine, scarico via API diretta...")
             url_base = api_params.get("url_base") or API_URL
             hdrs = dict(api_params.get("headers", {}))
             hdrs["accept"] = "application/json"
+            payload = api_params.get("payload") or {}
 
             pagina = 1
             while True:
                 url_pag = f"{url_base}?page={pagina}&recForPage=100"
                 print(f"    Richiedo pagina {pagina}...")
                 try:
-                    resp  = await page.request.get(url_pag, headers=hdrs, timeout=20000)
+                    # Usa il payload per mantenere i filtri geografici
+                    resp  = await page.request.post(url_pag, headers=hdrs, data=payload, timeout=20000)
                     testo = await resp.text()
                     if resp.status != 200 or not testo.strip():
                         print(f"    HTTP {resp.status} o risposta vuota, fine.")
@@ -182,6 +272,8 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
                     if not items:
                         print(f"    Pagina {pagina}: nessun risultato, fine.")
                         break
+
+                    await arricchisci_batch(items, hdrs)
                     tutti.extend(items)
                     print(f"    Pagina {pagina}: +{len(items)} (tot: {len(tutti)})")
                     if len(items) < 100:
@@ -199,11 +291,13 @@ async def scrapa(comune: str, distanza: int, headless: bool) -> list:
 
 def salva_json(annunci_raw: list, comune: str, distanza: int):
     # Ordina per dataStato (decrescente) e idAnnuncio (decrescente)
-    # In questo modo i più recenti appaiono per primi.
-    annunci_raw.sort(
-        key=lambda x: (x.get("dataStato") or "", x.get("idAnnuncio", 0)),
-        reverse=True
-    )
+    def sort_key(x):
+        d_stato = x.get("dataStato") or ""
+        # Normalizziamo l'ID come stringa per il confronto sicuro
+        id_an = str(x.get("idAnnuncio") or x.get("id") or "0")
+        return (d_stato, id_an)
+
+    annunci_raw.sort(key=sort_key, reverse=True)
 
     annunci = [costruisci_annuncio(a) for a in annunci_raw]
 
@@ -211,8 +305,9 @@ def salva_json(annunci_raw: list, comune: str, distanza: int):
     visti = set()
     unici = []
     for a in annunci:
-        if a["id"] not in visti:
-            visti.add(a["id"])
+        aid = str(a["id"])
+        if aid not in visti:
+            visti.add(aid)
             unici.append(a)
 
     now_italy = datetime.now(ZoneInfo("Europe/Rome"))

@@ -830,7 +830,7 @@
 
     // ── Utility ───────────────────────────────────────────────────
     function esc(s) {
-      if (!s) return '–';
+      if (!s || s === '–') return '–';
       return String(s)
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
