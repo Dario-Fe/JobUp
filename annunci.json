@@ -1,9 +1,27 @@
 {
-  "aggiornato": "21/04/2026 22:20",
+  "aggiornato": "22/04/2026 09:44",
   "comune": "Verbania",
   "distanzaKm": 50,
-  "totale": 213,
+  "totale": 214,
   "annunci": [
+    {
+      "id": 2523,
+      "numAnnuncio": "20262523",
+      "titolo": "Personale Addetto Segreteria L. 68/99 Art.1",
+      "azienda": "Novara",
+      "comune": "Cameri",
+      "provincia": "No",
+      "cpi": "Novara",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "IL CENTRO PER L'IMPIEGO DI NOVARA CERCA PER AZIENDA DEL COMPARTO METALMECCANICO INDUSTRIA SITA A CAMERI (NO) N.1 PERSONA CON DISABILITÀ ISCRITTA AL COLLOCAMENTO MIRATO ART.1.",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "22/05/2026",
+      "dataPubblicazione": "22/04/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.5010360263407,8.66222201880181&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2523"
+    },
     {
       "id": 2551,
       "numAnnuncio": "20262551",
