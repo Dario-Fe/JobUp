@@ -33,7 +33,7 @@ jobs:
       - name: Esegui scraper
         env:
           JOBUP_COMUNE: "Verbania"
-          JOBUP_DISTANZA: "50"
+          JOBUP_DISTANZA: "30"
         run: python scraper/scraper_pslp.py
 
       - name: Commit e push annunci.json
