@@ -1,9 +1,27 @@
 {
-  "aggiornato": "26/04/2026 17:38",
+  "aggiornato": "27/04/2026 10:21",
   "comune": "Verbania",
   "distanzaKm": 50,
   "totale": 208,
   "annunci": [
+    {
+      "id": 2071,
+      "numAnnuncio": "20262071",
+      "titolo": "Assistenti Bagnanti",
+      "azienda": "Novara",
+      "comune": "Cameri",
+      "provincia": "Novara",
+      "cpi": "Novara",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Bagnini E Professioni Assimilate",
+      "qualifica": "IL CENTRO PER L'IMPIEGO DI NOVARA RICERCA, PER CENTRO SPORTIVO SITO IN CAMERI (NO), N. 2 ASSISTENTI BAGNANTI.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "23/05/2026",
+      "dataPubblicazione": "27/04/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.5010360263407,8.66222201880181&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2071"
+    },
     {
       "id": 1740,
       "numAnnuncio": "20261740",
@@ -1679,24 +1697,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2072"
     },
     {
-      "id": 2071,
-      "numAnnuncio": "20262071",
-      "titolo": "Assistenti Bagnanti",
-      "azienda": "Novara",
-      "comune": "Cameri",
-      "provincia": "Novara",
-      "cpi": "Novara",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Bagnini E Professioni Assimilate",
-      "qualifica": "IL CENTRO PER L'IMPIEGO DI NOVARA RICERCA, PER CENTRO SPORTIVO SITO IN CAMERI (NO), N. 2 ASSISTENTI BAGNANTI.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "23/05/2026",
-      "dataPubblicazione": "30/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.5010360263407,8.66222201880181&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2071"
-    },
-    {
       "id": 1962,
       "numAnnuncio": "20261962",
       "titolo": "Cercasi Commessa/O Negozio Telefonia",
@@ -1763,7 +1763,7 @@
       "qualifica": "ADDETTO SVILUPPO COMMERCIALE",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "17/04/2026",
+      "dataScadenza": "27/05/2026",
       "dataPubblicazione": "27/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7314076837109,8.45154316072374&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1811"
