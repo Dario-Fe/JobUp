@@ -1,9 +1,45 @@
 {
-  "aggiornato": "28/04/2026 10:23",
+  "aggiornato": "28/04/2026 18:49",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 114,
+  "totale": 116,
   "annunci": [
+    {
+      "id": 2706,
+      "numAnnuncio": "20262706",
+      "titolo": "Assistente Familiare Convivente",
+      "azienda": "Omegna",
+      "comune": "Pieve Vergonte",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "28/05/2026",
+      "dataPubblicazione": "28/04/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0056190210535,8.26857695159403&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2706"
+    },
+    {
+      "id": 1861,
+      "numAnnuncio": "20261861",
+      "titolo": "Assistente Familiare Convivente",
+      "azienda": "Omegna",
+      "comune": "Masera",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "28/05/2026",
+      "dataPubblicazione": "28/04/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1369853341918,8.32647605688325&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1861"
+    },
     {
       "id": 2684,
       "numAnnuncio": "20262684",
@@ -125,7 +161,7 @@
       "qualifica": "AZIENDA DI VARALLO CERCA DISEGNATORE/TRICE DI TESSUTI ISCRITTO ALLE CATEGORIE PROTETTE ART. 18",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Condiviso",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "24/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=740"
@@ -1123,14 +1159,14 @@
     {
       "id": 2057,
       "numAnnuncio": "20262057",
-      "titolo": "Lavapiatti - Art.1 L.68/99",
+      "titolo": "Lavapiatti/Cameriere/Aiuto Cuoco - Art.1 L.68/99",
       "azienda": "Borgomanero",
       "comune": "Orta San Giulio",
       "provincia": "Novara",
       "cpi": "Borgomanero",
       "contratto": "Lavoro A Tempo Determinato",
       "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "LAVAPIATTI ART.1 L.68/99",
+      "qualifica": "LAVAPIATTI/CAMERIERE/AIUTO CUOCO ART.1 L.68/99",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
       "dataScadenza": "28/05/2026",
@@ -1223,7 +1259,7 @@
       "qualifica": "ATTREZZISTA MACCHINE AUTOMATICHE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "20/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1864"
@@ -1457,7 +1493,7 @@
       "qualifica": "OPERAIO GENERICO ART. 18 L 68/99",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Validato",
-      "dataScadenza": "01/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "05/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1505"
@@ -1565,7 +1601,7 @@
       "qualifica": "ADDETTO/A TORNERIA E PULITURA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "27/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1337"
@@ -1619,7 +1655,7 @@
       "qualifica": "CONDUZIONE MACCHINE TORNERIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1178"
@@ -1637,7 +1673,7 @@
       "qualifica": "IMPIEGATO/A IN AMMINISTRAZIONE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1165"
@@ -1673,7 +1709,7 @@
       "qualifica": "ART. 18 ADDETTO AI SERVIZI DI PULIZIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1148"
@@ -1691,7 +1727,7 @@
       "qualifica": "ADD. AL CONFEZIONAMENTO",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1146"
@@ -1763,7 +1799,7 @@
       "qualifica": "ADDETTO/A ASSEMBLAGGIO MECCANICO/ELETTRONICO",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "10/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=862"
@@ -1781,7 +1817,7 @@
       "qualifica": "ADDETTO/A SU CENTRI DI LAVORO CNC",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "10/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=860"
@@ -1799,7 +1835,7 @@
       "qualifica": "ADDETTO/A ALLE PULIZIE IN PRODUZIONE",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "28/05/2026",
       "dataPubblicazione": "10/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=859"
