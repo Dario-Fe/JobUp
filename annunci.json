@@ -1,8 +1,8 @@
 {
-  "aggiornato": "03/05/2026 17:42",
+  "aggiornato": "04/05/2026 10:27",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 124,
+  "totale": 123,
   "annunci": [
     {
       "id": 2791,
@@ -1893,24 +1893,6 @@
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1146"
-    },
-    {
-      "id": 967,
-      "numAnnuncio": "2026967",
-      "titolo": "Impiegato/A Commerciale",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Specialisti Nella Commercializzazione Di Beni E Servizi (Escluso Il Settore Ict)",
-      "qualifica": "IMPIEGATO/A COMMERCIALE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "15/03/2026",
-      "dataPubblicazione": "13/02/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=967"
     },
     {
       "id": 894,
