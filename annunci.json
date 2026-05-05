@@ -1,8 +1,8 @@
 {
-  "aggiornato": "04/05/2026 18:29",
+  "aggiornato": "05/05/2026 10:07",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 125,
+  "totale": 123,
   "annunci": [
     {
       "id": 2822,
@@ -237,24 +237,6 @@
       "dataPubblicazione": "29/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8218966073559,8.53880787271042&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2236"
-    },
-    {
-      "id": 2217,
-      "numAnnuncio": "20262217",
-      "titolo": "Manutentore",
-      "azienda": "Omegna",
-      "comune": "Trontano",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Manutentori E Riparatori Di Apparati Elettronici Industriali",
-      "qualifica": "MANUTENTORE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "29/05/2026",
-      "dataPubblicazione": "29/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.122232131019,8.33448664959544&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2217"
     },
     {
       "id": 1964,
@@ -1443,24 +1425,6 @@
       "dataPubblicazione": "27/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1629"
-    },
-    {
-      "id": 1902,
-      "numAnnuncio": "20261902",
-      "titolo": "Cassiera/E - Riservata Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cassieri Di Esercizi Commerciali",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA CHE COMMERCIA IN ARTICOLI D'ABBIGLIAMENTO CERCA UN/A CASSIERE/A DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "23/04/2026",
-      "dataPubblicazione": "24/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1902"
     },
     {
       "id": 1864,
