@@ -1,8 +1,8 @@
 {
-  "aggiornato": "05/05/2026 18:22",
+  "aggiornato": "06/05/2026 10:24",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 120,
   "annunci": [
     {
       "id": 2236,
@@ -525,24 +525,6 @@
       "dataPubblicazione": "23/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2558"
-    },
-    {
-      "id": 2609,
-      "numAnnuncio": "20262609",
-      "titolo": "Cuoco/A",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "CUOCO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "23/05/2026",
-      "dataPubblicazione": "23/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2609"
     },
     {
       "id": 2512,
@@ -2003,27 +1985,9 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=759"
     },
     {
-      "id": 677,
-      "numAnnuncio": "2026677",
-      "titolo": "Assistente Alla Poltrona",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Igienisti Dentali",
-      "qualifica": "ASSISTENTE ALLA POLTRONA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/05/2026",
-      "dataPubblicazione": "04/02/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=677"
-    },
-    {
       "id": 562,
       "numAnnuncio": "2026562",
-      "titolo": "Addetta/O Progettazione Hardware E Software",
+      "titolo": "Progettazione Hardware E Software - Art. 1 L. 68",
       "azienda": "Omegna",
       "comune": "Gravellona Toce",
       "provincia": "Verbano Cusio Ossola",
@@ -2033,7 +1997,7 @@
       "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO ART. 1 LEGGE 68/99 PERSONE CON DISABILITA' - AZIENDA METALMECCANICA CERCA UNA PERSONA DA INSERIRE NEL PROPRIO ORGANICO CON LA MANSIONE DI ADDETTA/O PROGETTAZIONE HARDWARE E SOFTWARE",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
+      "dataScadenza": "05/06/2026",
       "dataPubblicazione": "29/01/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=562"
@@ -2069,7 +2033,7 @@
       "qualifica": "BARISTA IN APPRENDISTATO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "29/04/2026",
+      "dataScadenza": "05/06/2026",
       "dataPubblicazione": "27/01/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=490"
