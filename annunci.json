@@ -1,8 +1,8 @@
 {
-  "aggiornato": "08/05/2026 09:28",
+  "aggiornato": "08/05/2026 18:14",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 121,
   "annunci": [
     {
       "id": 2905,
@@ -1749,24 +1749,6 @@
       "dataPubblicazione": "05/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1505"
-    },
-    {
-      "id": 1383,
-      "numAnnuncio": "20261383",
-      "titolo": "Aiuto Cuoco/A Di Ristorante",
-      "azienda": "Omegna",
-      "comune": "Mergozzo",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "AIUTO CUOCO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/04/2026",
-      "dataPubblicazione": "02/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9610175925271,8.45295716612677&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1383"
     },
     {
       "id": 1380,
