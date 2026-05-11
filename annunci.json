@@ -1,9 +1,27 @@
 {
-  "aggiornato": "11/05/2026 11:36",
+  "aggiornato": "11/05/2026 19:57",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 120,
   "annunci": [
+    {
+      "id": 2966,
+      "numAnnuncio": "20262966",
+      "titolo": "Personale Di Ristorazione",
+      "azienda": "Omegna",
+      "comune": "Trontano",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Camerieri Di Ristorante",
+      "qualifica": "PERSONALE RISTORANTE E GESTIONE RIFUGIO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "10/06/2026",
+      "dataPubblicazione": "11/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.122232131019,8.33448664959544&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2966"
+    },
     {
       "id": 2961,
       "numAnnuncio": "20262961",
@@ -237,24 +255,6 @@
       "dataPubblicazione": "05/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8218966073559,8.53880787271042&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2236"
-    },
-    {
-      "id": 2840,
-      "numAnnuncio": "20262840",
-      "titolo": "Assistente Familiare H24",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE H24",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "04/06/2026",
-      "dataPubblicazione": "05/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2840"
     },
     {
       "id": 2839,
@@ -615,24 +615,6 @@
       "dataPubblicazione": "27/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2547"
-    },
-    {
-      "id": 2657,
-      "numAnnuncio": "20262657",
-      "titolo": "Giardinieri",
-      "azienda": "Omegna",
-      "comune": "Pieve Vergonte",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Agricoltori E Operai Agricoli Specializzati Di Giardini E Vivai, Di Coltivazioni Di Fiori E Piante Ornamentali",
-      "qualifica": "GIARDINIERI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/05/2026",
-      "dataPubblicazione": "27/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0056190210535,8.26857695159403&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2657"
     },
     {
       "id": 740,
@@ -1119,24 +1101,6 @@
       "dataPubblicazione": "14/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2368"
-    },
-    {
-      "id": 2369,
-      "numAnnuncio": "20262369",
-      "titolo": "Addetti/E Mensa",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Preparazione E Alla Cottura Di Cibi In Imprese Per La Ristorazione Collettiva",
-      "qualifica": "ADDETTI/E MENSA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "14/05/2026",
-      "dataPubblicazione": "14/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2369"
     },
     {
       "id": 231,
