@@ -1,9 +1,27 @@
 {
-  "aggiornato": "13/05/2026 10:42",
+  "aggiornato": "13/05/2026 19:14",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 121,
   "annunci": [
+    {
+      "id": 3021,
+      "numAnnuncio": "20263021",
+      "titolo": "Assistente Familiare A Ore",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE A ORE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "12/06/2026",
+      "dataPubblicazione": "13/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3021"
+    },
     {
       "id": 2988,
       "numAnnuncio": "20262988",
@@ -863,7 +881,7 @@
       "qualifica": "INGEGNERE MECCANICO O AEROSPAZIALE PER UFFICIO PROGETTAZIONE",
       "categoria": "Offerta ordinaria",
       "stato": "Condiviso",
-      "dataScadenza": "21/05/2026",
+      "dataScadenza": "12/06/2026",
       "dataPubblicazione": "21/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2518"
@@ -1097,7 +1115,7 @@
       "qualifica": "ADDETTI ALLA PULITURA METALLI",
       "categoria": "Offerta ordinaria",
       "stato": "Condiviso",
-      "dataScadenza": "15/05/2026",
+      "dataScadenza": "12/06/2026",
       "dataPubblicazione": "15/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2400"
@@ -1517,24 +1535,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2057"
     },
     {
-      "id": 1354,
-      "numAnnuncio": "20261354",
-      "titolo": "Operatore Su Macchine A Controllo Numerico",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Tecnici Meccanici",
-      "qualifica": "OPERATORE SU MACCHINE A CONTROLLO NUMERICO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
-      "dataPubblicazione": "27/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1354"
-    },
-    {
       "id": 1315,
       "numAnnuncio": "20261315",
       "titolo": "Programmatore/Addetto Torni Cnc",
@@ -1641,24 +1641,6 @@
       "dataPubblicazione": "16/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0434628633672,8.25788417567554&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1755"
-    },
-    {
-      "id": 1719,
-      "numAnnuncio": "20261719",
-      "titolo": "Assistente Familiare Diurna",
-      "azienda": "Borgomanero",
-      "comune": "Pisano",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE DIURNA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "12/04/2026",
-      "dataPubblicazione": "12/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7935437620867,8.51045993576761&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1719"
     },
     {
       "id": 1665,
