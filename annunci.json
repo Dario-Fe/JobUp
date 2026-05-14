@@ -1,9 +1,27 @@
 {
-  "aggiornato": "13/05/2026 19:14",
+  "aggiornato": "14/05/2026 10:36",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 121,
   "annunci": [
+    {
+      "id": 2905,
+      "numAnnuncio": "20262905",
+      "titolo": "Aspp- Addetto Al Servizio Di Prevenzione E Protezi",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Tecnici Della Prevenzione Nell'Ambiente E Nei Luoghi Di Lavoro",
+      "qualifica": "ASPP- ADDETTO AL SERVIZIO DI PREVENZIONE E PROTEZIONE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "06/06/2026",
+      "dataPubblicazione": "14/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2905"
+    },
     {
       "id": 3021,
       "numAnnuncio": "20263021",
@@ -57,24 +75,6 @@
       "dataPubblicazione": "12/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2976"
-    },
-    {
-      "id": 2905,
-      "numAnnuncio": "20262905",
-      "titolo": "Aspp- Addetto Al Servizio Di Prevenzione E Protezi",
-      "azienda": "Omegna",
-      "comune": "Omegna",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Tecnici Della Prevenzione Nell'Ambiente E Nei Luoghi Di Lavoro",
-      "qualifica": "ASPP- ADDETTO AL SERVIZIO DI PREVENZIONE E PROTEZIONE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "06/06/2026",
-      "dataPubblicazione": "12/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2905"
     },
     {
       "id": 2966,
