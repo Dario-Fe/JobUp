@@ -1,8 +1,8 @@
 {
-  "aggiornato": "21/05/2026 11:37",
+  "aggiornato": "21/05/2026 20:54",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 127,
   "annunci": [
     {
       "id": 1665,
@@ -1479,24 +1479,6 @@
       "dataPubblicazione": "03/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1353568037812,8.4318478378963&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2215"
-    },
-    {
-      "id": 2200,
-      "numAnnuncio": "20262200",
-      "titolo": "Operatore Servizi Di Sicurezza Legge 68/99",
-      "azienda": "Novara",
-      "comune": "Paruzzaro",
-      "provincia": "Novara",
-      "cpi": "Novara",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Di Guardiania Territoriale",
-      "qualifica": "IL CENTRO PER L'IMPIEGO DI NOVARA CERCA PER CONTO DI AZIENDA OPERANTE NEL SETTORE DELLA VIGILANZA N. 2 PERSONE CON DISABILITÀ",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "02/05/2026",
-      "dataPubblicazione": "02/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2200"
     },
     {
       "id": 2199,
