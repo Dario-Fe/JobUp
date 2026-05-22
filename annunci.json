@@ -1,9 +1,27 @@
 {
-  "aggiornato": "21/05/2026 20:54",
+  "aggiornato": "22/05/2026 10:58",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 126,
   "annunci": [
+    {
+      "id": 3266,
+      "numAnnuncio": "20263266",
+      "titolo": "Trattorista",
+      "azienda": "Borgomanero",
+      "comune": "Divignano",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Conduttori Di Trattori Agricoli",
+      "qualifica": "TRATTORISTA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "21/06/2026",
+      "dataPubblicazione": "22/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6623154744838,8.60148265283843&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3266"
+    },
     {
       "id": 1665,
       "numAnnuncio": "20261665",
@@ -41,24 +59,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3241"
     },
     {
-      "id": 2512,
-      "numAnnuncio": "20262512",
-      "titolo": "Tirocinante Neolaureato Ufficio Amministrazione",
-      "azienda": "Borgomanero",
-      "comune": "Paruzzaro",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Tirocinio",
-      "profilo": "Addetti Alla Gestione Degli Acquisti Di Beni E Servizi",
-      "qualifica": "TIROCINANTE NEOLAUREATO IN MATERIE ECONOMICHE PER UFFICIO ACQUISTI/AMMINISTRAZIONE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "21/05/2026",
-      "dataPubblicazione": "21/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2512"
-    },
-    {
       "id": 2551,
       "numAnnuncio": "20262551",
       "titolo": "Operatore Socio Sanitario - Gattico",
@@ -89,7 +89,7 @@
       "qualifica": "DISEGNATORE TECNICO-PROGETTISTA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/05/2026",
+      "dataScadenza": "21/06/2026",
       "dataPubblicazione": "21/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=150"
@@ -107,7 +107,7 @@
       "qualifica": "ATTREZZISTA MACCHINE CNC",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/05/2026",
+      "dataScadenza": "21/06/2026",
       "dataPubblicazione": "21/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1738"
@@ -125,7 +125,7 @@
       "qualifica": "APPRENDISTA MONTATORE IDRAULICO/ ELETTRICO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/05/2026",
+      "dataScadenza": "21/06/2026",
       "dataPubblicazione": "21/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7301147661496,8.57290725686833&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1795"
@@ -1641,24 +1641,6 @@
       "dataPubblicazione": "30/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7475165624367,8.4346948173131&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2072"
-    },
-    {
-      "id": 2062,
-      "numAnnuncio": "20262062",
-      "titolo": "Educatore Professionale",
-      "azienda": "Borgomanero",
-      "comune": "Ameno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Educatori Professionali",
-      "qualifica": "EDUCATORE PROFESSIONALE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "22/05/2026",
-      "dataPubblicazione": "27/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7888209082031,8.43939336518912&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2062"
     },
     {
       "id": 1811,
