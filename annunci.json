@@ -1,9 +1,27 @@
 {
-  "aggiornato": "25/05/2026 12:01",
+  "aggiornato": "25/05/2026 19:05",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 124,
   "annunci": [
+    {
+      "id": 3323,
+      "numAnnuncio": "20263323",
+      "titolo": "Imbianchino",
+      "azienda": "Omegna",
+      "comune": "Baveno",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Pittori Edili",
+      "qualifica": "IMBIANCHINO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "24/06/2026",
+      "dataPubblicazione": "25/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3323"
+    },
     {
       "id": 3308,
       "numAnnuncio": "20263308",
@@ -1299,24 +1317,6 @@
       "dataPubblicazione": "20/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1879"
-    },
-    {
-      "id": 2505,
-      "numAnnuncio": "20262505",
-      "titolo": "Addetta/O Al Confezionamento Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Macchine Confezionatrici E Al Confezionamento Di Prodotti Industriali",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - SUPERMERCATO CERCA UN/A ADDETTO/A AL CONFEZIONAMENTO DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "20/05/2026",
-      "dataPubblicazione": "20/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2505"
     },
     {
       "id": 2457,
