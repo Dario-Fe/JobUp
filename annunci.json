@@ -1,9 +1,27 @@
 {
-  "aggiornato": "28/05/2026 20:08",
+  "aggiornato": "29/05/2026 11:51",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 123,
   "annunci": [
+    {
+      "id": 3412,
+      "numAnnuncio": "20263412",
+      "titolo": "Addetta/O Alla Segreteria - Art. 1 Legge 68/99",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA DI TRASPORTI CERCA UN/A ADDETTO/A ALLA SEGRETERIA DA INSERIRE NEL PROPRIO ORGANICO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "28/06/2026",
+      "dataPubblicazione": "29/05/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3412"
+    },
     {
       "id": 3331,
       "numAnnuncio": "20263331",
@@ -1443,24 +1461,6 @@
       "dataPubblicazione": "07/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6880763567532,8.60389269790483&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2233"
-    },
-    {
-      "id": 2215,
-      "numAnnuncio": "20262215",
-      "titolo": "Lavapiatti E Add. Pulizie - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Druogno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - STRUTTURA RICETTIVA CERCA UN/A LAVAPIATTI E UN/A ADDETTO/O ALLE PULIZIE PER LA STAGIONE ESTIVA",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "03/05/2026",
-      "dataPubblicazione": "03/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1353568037812,8.4318478378963&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2215"
     },
     {
       "id": 2199,
