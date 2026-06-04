@@ -1,9 +1,27 @@
 {
-  "aggiornato": "04/06/2026 11:53",
+  "aggiornato": "04/06/2026 19:42",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 129,
   "annunci": [
+    {
+      "id": 3502,
+      "numAnnuncio": "20263502",
+      "titolo": "Addetto/A Alle Pulizie",
+      "azienda": "Omegna",
+      "comune": "Baveno",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Addetto Alla Pulizia Nei Servizi Di Alloggio E Nelle Navi",
+      "qualifica": "PULIZIE CASE MOBILI",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "04/07/2026",
+      "dataPubblicazione": "04/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3502"
+    },
     {
       "id": 3307,
       "numAnnuncio": "20263307",
@@ -61,7 +79,7 @@
     {
       "id": 3420,
       "numAnnuncio": "20263420",
-      "titolo": "Offerta Lavoro",
+      "titolo": "Elettricista Junior",
       "azienda": "Omegna",
       "comune": "Baveno",
       "provincia": "Verbano Cusio Ossola",
