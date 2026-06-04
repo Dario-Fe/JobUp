@@ -1,9 +1,27 @@
 {
-  "aggiornato": "03/06/2026 20:42",
+  "aggiornato": "04/06/2026 11:53",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 128,
   "annunci": [
+    {
+      "id": 3307,
+      "numAnnuncio": "20263307",
+      "titolo": "Impiegata/O Contabile Art. 1 Legge 68/99",
+      "azienda": "Omegna",
+      "comune": "Cesara",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Contabilità",
+      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA METALMECCANICA CERCA UN/A IMPIEGATA/O CONTABILE DA INSERIRE NEL PROPRIO ORGANICO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "04/07/2026",
+      "dataPubblicazione": "04/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8351075097863,8.36593797204871&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3307"
+    },
     {
       "id": 3489,
       "numAnnuncio": "20263489",
