@@ -1,9 +1,27 @@
 {
-  "aggiornato": "09/06/2026 19:23",
+  "aggiornato": "10/06/2026 11:55",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 134,
+  "totale": 135,
   "annunci": [
+    {
+      "id": 3606,
+      "numAnnuncio": "20263606",
+      "titolo": "Autista Patente B",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Autisti Di Taxi, Conduttori Di Automobili, Furgoni E Altri Veicoli Per Trasporto Di Persone",
+      "qualifica": "AUTISTA PATENTE B",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "10/07/2026",
+      "dataPubblicazione": "10/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3606"
+    },
     {
       "id": 3589,
       "numAnnuncio": "20263589",
