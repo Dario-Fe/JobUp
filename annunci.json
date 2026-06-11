@@ -1,9 +1,27 @@
 {
-  "aggiornato": "11/06/2026 12:19",
+  "aggiornato": "11/06/2026 20:10",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 128,
   "annunci": [
+    {
+      "id": 3641,
+      "numAnnuncio": "20263641",
+      "titolo": "Addetti Alla Lappatura",
+      "azienda": "Borgosesia",
+      "comune": "Varallo",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Attrezzisti Di Macchine Utensili",
+      "qualifica": "N°2 OPERATORI PER IL REPARTO LAPPATURA DI PRECISIONE SU GRANITO E CERAMICA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "11/07/2026",
+      "dataPubblicazione": "11/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3641"
+    },
     {
       "id": 3629,
       "numAnnuncio": "20263629",
