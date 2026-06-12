@@ -1,8 +1,8 @@
 {
-  "aggiornato": "12/06/2026 12:08",
+  "aggiornato": "12/06/2026 19:35",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 129,
+  "totale": 128,
   "annunci": [
     {
       "id": 3656,
@@ -1281,24 +1281,6 @@
       "dataPubblicazione": "05/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.755905194473,8.48679966608119&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2839"
-    },
-    {
-      "id": 2822,
-      "numAnnuncio": "20262822",
-      "titolo": "Assistente Amministrativo - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Invorio",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Agli Affari Generali",
-      "qualifica": "ASSISTENTE AMMINISTRATIVO - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "03/06/2026",
-      "dataPubblicazione": "04/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.755905194473,8.48679966608119&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2822"
     },
     {
       "id": 2802,
