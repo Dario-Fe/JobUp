@@ -1,9 +1,27 @@
 {
-  "aggiornato": "11/06/2026 20:10",
+  "aggiornato": "12/06/2026 12:08",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 129,
   "annunci": [
+    {
+      "id": 3656,
+      "numAnnuncio": "20263656",
+      "titolo": "Aiuto Imbianchino",
+      "azienda": "Omegna",
+      "comune": "Villadossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Tirocinio",
+      "profilo": "Pittori Edili",
+      "qualifica": "AIUTO IMBIANCHINO, POSATURA CARTONGESSO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "12/07/2026",
+      "dataPubblicazione": "12/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0677841279159,8.26017424759947&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3656"
+    },
     {
       "id": 3641,
       "numAnnuncio": "20263641",
