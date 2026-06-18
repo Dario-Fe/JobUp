@@ -1,5 +1,5 @@
 {
-  "aggiornato": "18/06/2026 12:17",
+  "aggiornato": "18/06/2026 20:00",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 131,
@@ -7,7 +7,7 @@
     {
       "id": 2905,
       "numAnnuncio": "20262905",
-      "titolo": "Aspp- Addetto Al Servizio Di Prevenzione E Protezi",
+      "titolo": "Aspp- Add. Al Servizio Di Prevenzione E Protezione",
       "azienda": "Omegna",
       "comune": "Omegna",
       "provincia": "Verbano Cusio Ossola",
@@ -21,6 +21,42 @@
       "dataPubblicazione": "18/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2905"
+    },
+    {
+      "id": 3796,
+      "numAnnuncio": "20263796",
+      "titolo": "Autista Patente C/E - Art.1 Legge 68/99",
+      "azienda": "Omegna",
+      "comune": "Cesara",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Conduttori Di Mezzi Pesanti E Camion",
+      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA CERCA UN AUTISTA PATENTE C O E DA INSERIRE NEL PROPRIO ORGANICO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "18/07/2026",
+      "dataPubblicazione": "18/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8351075097863,8.36593797204871&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3796"
+    },
+    {
+      "id": 3629,
+      "numAnnuncio": "20263629",
+      "titolo": "Tirocinio In Segreteria",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Tirocinio",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "TIROCINIO IN SEGRETERIA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "11/07/2026",
+      "dataPubblicazione": "18/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3629"
     },
     {
       "id": 3780,
@@ -327,24 +363,6 @@
       "dataPubblicazione": "11/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3641"
-    },
-    {
-      "id": 3629,
-      "numAnnuncio": "20263629",
-      "titolo": "Tirocinio In Segreteria",
-      "azienda": "Omegna",
-      "comune": "Omegna",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "TIROCINIO IN SEGRETERIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/07/2026",
-      "dataPubblicazione": "11/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3629"
     },
     {
       "id": 3552,
@@ -1263,24 +1281,6 @@
       "dataPubblicazione": "18/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
-    },
-    {
-      "id": 2988,
-      "numAnnuncio": "20262988",
-      "titolo": "Operatore Aree Verdi - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Borgomanero",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Addetto Alla Manutenzione Del Verde",
-      "qualifica": "OPERATORE AREE VERDI - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/06/2026",
-      "dataPubblicazione": "12/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2988"
     },
     {
       "id": 2976,
