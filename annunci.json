@@ -1,9 +1,27 @@
 {
-  "aggiornato": "22/06/2026 13:49",
+  "aggiornato": "22/06/2026 20:43",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 126,
   "annunci": [
+    {
+      "id": 3539,
+      "numAnnuncio": "20263539",
+      "titolo": "Addetto All’Assemblaggio Meccanico E Strutturale",
+      "azienda": "Borgosesia",
+      "comune": "Varallo",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
+      "qualifica": "ADDETTO ALL’ASSEMBLAGGIO MECCANICO E STRUTTURALE / ADDETTO ALL’INCOLLAGGIO SU GRANITO E CERAMICA",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "08/07/2026",
+      "dataPubblicazione": "22/06/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3539"
+    },
     {
       "id": 3813,
       "numAnnuncio": "20263813",
@@ -689,24 +707,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2902"
     },
     {
-      "id": 3539,
-      "numAnnuncio": "20263539",
-      "titolo": "Addetto All’Assemblaggio Meccanico E Strutturale",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
-      "qualifica": "ADDETTO ALL’ASSEMBLAGGIO MECCANICO E STRUTTURALE / ADDETTO ALL’INCOLLAGGIO SU GRANITO E CERAMICA",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Condiviso",
-      "dataScadenza": "08/07/2026",
-      "dataPubblicazione": "08/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3539"
-    },
-    {
       "id": 3538,
       "numAnnuncio": "20263538",
       "titolo": "Assistente Familiare Convivente",
@@ -971,7 +971,7 @@
       "qualifica": "AIUTO CUCINA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "20/06/2026",
+      "dataScadenza": "22/07/2026",
       "dataPubblicazione": "21/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1353568037812,8.4318478378963&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3241"
@@ -1619,7 +1619,7 @@
       "qualifica": "COMMESSO/A DI NEGOZIO DI ABBIGLIAMENTO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "09/05/2026",
+      "dataScadenza": "22/07/2026",
       "dataPubblicazione": "09/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2289"
