@@ -1,13 +1,13 @@
 {
-  "aggiornato": "21/06/2026 18:27",
+  "aggiornato": "22/06/2026 13:49",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 126,
   "annunci": [
     {
       "id": 3813,
       "numAnnuncio": "20263813",
-      "titolo": "Art 1 L. 68/99",
+      "titolo": "Art 1 L. 68/99 Assemblaggio",
       "azienda": "Borgosesia",
       "comune": "Valduggia",
       "provincia": "Vercelli",
@@ -851,24 +851,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3363"
     },
     {
-      "id": 2736,
-      "numAnnuncio": "20262736",
-      "titolo": "Sarto/A Con Esperienza Su Macchine",
-      "azienda": "Borgosesia",
-      "comune": "Quarona",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Sarti",
-      "qualifica": "ADDETTO/A A CUCITURA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "25/06/2026",
-      "dataPubblicazione": "26/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.759901551445,8.26542694654601&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2736"
-    },
-    {
       "id": 3355,
       "numAnnuncio": "20263355",
       "titolo": "Barista",
@@ -1191,24 +1173,6 @@
       "dataPubblicazione": "19/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3119"
-    },
-    {
-      "id": 3126,
-      "numAnnuncio": "20263126",
-      "titolo": "Addetto/A Produzione Tessile - Art.  Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Ghiffa",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Altri Operai Addetti A Macchinari Dell'Industria Tessile E Delle Confezioni Ed Assimilati",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA TESSILE CERCA UN/A OPERAIO/A ADDETTO/A ALLA PRODUZIONE TESSILE",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "17/06/2026",
-      "dataPubblicazione": "18/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9563332635437,8.61714339974774&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3126"
     },
     {
       "id": 3112,
