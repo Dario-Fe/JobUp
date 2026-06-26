@@ -1,8 +1,8 @@
 {
-  "aggiornato": "26/06/2026 11:21",
+  "aggiornato": "26/06/2026 18:58",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 129,
+  "totale": 128,
   "annunci": [
     {
       "id": 1795,
@@ -489,24 +489,6 @@
       "dataPubblicazione": "15/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9610175925271,8.45295716612677&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3664"
-    },
-    {
-      "id": 3584,
-      "numAnnuncio": "20263584",
-      "titolo": "Addetto/A Al Banco Dermocosmetico Di Farmacia",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Commessi Delle Vendite Al Minuto",
-      "qualifica": "ADDETTO/A AL BANCO DERMOCOSMESI DI FARMACIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "09/07/2026",
-      "dataPubblicazione": "15/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3584"
     },
     {
       "id": 2343,
