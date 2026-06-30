@@ -1,8 +1,8 @@
 {
-  "aggiornato": "29/06/2026 19:32",
+  "aggiornato": "30/06/2026 11:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 130,
+  "totale": 129,
   "annunci": [
     {
       "id": 3629,
@@ -957,24 +957,6 @@
       "dataPubblicazione": "29/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3452"
-    },
-    {
-      "id": 3331,
-      "numAnnuncio": "20263331",
-      "titolo": "Gommista Tirocinante",
-      "azienda": "Omegna",
-      "comune": "Ornavasso",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Gommisti",
-      "qualifica": "ATTIVITÀ DI RIPARAZIONE E SOSTITUZIONE PNEUMATICI PER AUTOVEICOLI, MOTOVEICOLI E CICLOMOTORI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "26/06/2026",
-      "dataPubblicazione": "27/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9692679899888,8.41576272006029&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3331"
     },
     {
       "id": 740,
