@@ -1,9 +1,27 @@
 {
-  "aggiornato": "30/06/2026 19:02",
+  "aggiornato": "01/07/2026 11:41",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 129,
   "annunci": [
+    {
+      "id": 3992,
+      "numAnnuncio": "20263992",
+      "titolo": "Personale Addetto Alle Pulizie",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Addetto Alla Pulizia Nei Servizi Di Alloggio E Nelle Navi",
+      "qualifica": "PERSONALE ADDETTO ALLA PULIZIA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "31/07/2026",
+      "dataPubblicazione": "01/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3992"
+    },
     {
       "id": 3977,
       "numAnnuncio": "20263977",
