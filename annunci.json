@@ -1,8 +1,8 @@
 {
-  "aggiornato": "02/07/2026 18:47",
+  "aggiornato": "03/07/2026 10:59",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 124,
+  "totale": 115,
   "annunci": [
     {
       "id": 4040,
@@ -545,24 +545,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3614"
     },
     {
-      "id": 3693,
-      "numAnnuncio": "20263693",
-      "titolo": "Assistente Familiare H24",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE H24",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "16/07/2026",
-      "dataPubblicazione": "16/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3693"
-    },
-    {
       "id": 3679,
       "numAnnuncio": "20263679",
       "titolo": "Assitente Familiare Convivente",
@@ -665,7 +647,7 @@
       "qualifica": "ESTETISTA QUALIFICATA",
       "categoria": "Offerta ordinaria",
       "stato": "Condiviso",
-      "dataScadenza": "08/07/2026",
+      "dataScadenza": "02/08/2026",
       "dataPubblicazione": "11/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3552"
@@ -833,42 +815,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3489"
     },
     {
-      "id": 3559,
-      "numAnnuncio": "20263559",
-      "titolo": "Aiuto Cucina Presso Ente Ospedaliero",
-      "azienda": "Omegna",
-      "comune": "Oggebbio",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Preparazione, Alla Cottura E Alla Vendita Di Cibi In Fast Food, Tavole Calde, Rosticcerie Ed Esercizi Assimilati",
-      "qualifica": "AIUTO CUOCO/A PRESSO STRUTTURA OSPEDALIERA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/07/2026",
-      "dataPubblicazione": "08/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9970025612173,8.65295426273856&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3559"
-    },
-    {
-      "id": 3558,
-      "numAnnuncio": "20263558",
-      "titolo": "Cuoco Di Cucina Ospedaliera",
-      "azienda": "Omegna",
-      "comune": "Oggebbio",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "CUOCO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/07/2026",
-      "dataPubblicazione": "08/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9970025612173,8.65295426273856&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3558"
-    },
-    {
       "id": 3555,
       "numAnnuncio": "20263555",
       "titolo": "Operaio Alimentare - Art.1 L.68/99",
@@ -923,24 +869,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3538"
     },
     {
-      "id": 2609,
-      "numAnnuncio": "20262609",
-      "titolo": "Cuoco/A",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "CUOCO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "05/07/2026",
-      "dataPubblicazione": "05/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2609"
-    },
-    {
       "id": 3307,
       "numAnnuncio": "20263307",
       "titolo": "Impiegata/O Contabile Art. 1 Legge 68/99",
@@ -989,7 +917,7 @@
       "qualifica": "BARISTA/ADDETTO/A AL SERVIZIO BAR",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "25/06/2026",
+      "dataScadenza": "02/08/2026",
       "dataPubblicazione": "26/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3355"
@@ -1175,24 +1103,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3159"
     },
     {
-      "id": 3165,
-      "numAnnuncio": "20263165",
-      "titolo": "Assistente Familiare H24",
-      "azienda": "Omegna",
-      "comune": "Baveno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE H24",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "18/06/2026",
-      "dataPubblicazione": "19/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3165"
-    },
-    {
       "id": 2840,
       "numAnnuncio": "20262840",
       "titolo": "Assistente Familiare H24",
@@ -1371,24 +1281,6 @@
       "dataPubblicazione": "04/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2800"
-    },
-    {
-      "id": 2779,
-      "numAnnuncio": "20262779",
-      "titolo": "Tirocinio - Tuttofare Di Pizzeria",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "TIROCINIO - TUTTOFARE DI PIZZERIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/07/2026",
-      "dataPubblicazione": "30/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2779"
     },
     {
       "id": 2753,
@@ -1643,24 +1535,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1277"
     },
     {
-      "id": 2289,
-      "numAnnuncio": "20262289",
-      "titolo": "Commesso/A Part-Time",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Commessi Delle Vendite Al Minuto",
-      "qualifica": "COMMESSO/A DI NEGOZIO DI ABBIGLIAMENTO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "22/07/2026",
-      "dataPubblicazione": "09/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2289"
-    },
-    {
       "id": 2233,
       "numAnnuncio": "20262233",
       "titolo": "Magazziniere - Art.18 L.68/99",
@@ -1877,24 +1751,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=850"
     },
     {
-      "id": 1587,
-      "numAnnuncio": "20261587",
-      "titolo": "Aiuto Cuoco E Aiuto Pizzaiolo",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "AIUTO CUOCO E AIUTO PIZZAIOLO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "04/06/2026",
-      "dataPubblicazione": "09/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1587"
-    },
-    {
       "id": 1438,
       "numAnnuncio": "20261438",
       "titolo": "Impiegato Commerciale Estero - Art.18 L.68/99",
@@ -2109,24 +1965,6 @@
       "dataPubblicazione": "27/01/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8021492481686,8.43046903073836&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=496"
-    },
-    {
-      "id": 490,
-      "numAnnuncio": "2026490",
-      "titolo": "Apprendista Barista",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Apprendistato",
-      "profilo": "Baristi E Professioni Assimilate",
-      "qualifica": "BARISTA IN APPRENDISTATO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "05/06/2026",
-      "dataPubblicazione": "27/01/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=490"
     },
     {
       "id": 398,
