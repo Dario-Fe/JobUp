@@ -1,9 +1,27 @@
 {
-  "aggiornato": "06/07/2026 12:14",
+  "aggiornato": "06/07/2026 19:39",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 116,
+  "totale": 117,
   "annunci": [
+    {
+      "id": 4073,
+      "numAnnuncio": "20264073",
+      "titolo": "Impresa Edile Ricerca Geometra Di Cantiere",
+      "azienda": "Mali Costruzioni Srl",
+      "comune": "Invorio",
+      "provincia": "Novara",
+      "cpi": "",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Tecnici Della Gestione Di Cantieri Edili",
+      "qualifica": "IMPRESA EDILE RICERCA TECNICO (GEOMETRA) PER LA GESTIONE DI CANTIERI EDILI, ANCHE SENZA ESPERIENZA PURCHÉ VOLENTEROSO, DA INSERIRE CON CONTRATTO DIRETTO FULL TIME",
+      "categoria": "Offerta ordinaria",
+      "stato": "Validato",
+      "dataScadenza": "05/08/2026",
+      "dataPubblicazione": "06/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.755905194473,8.48679966608119&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4073"
+    },
     {
       "id": 4060,
       "numAnnuncio": "20264060",
