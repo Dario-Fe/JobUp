@@ -1,9 +1,27 @@
 {
-  "aggiornato": "13/07/2026 11:21",
+  "aggiornato": "13/07/2026 19:10",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 118,
+  "totale": 119,
   "annunci": [
+    {
+      "id": 4257,
+      "numAnnuncio": "20264257",
+      "titolo": "Installatore E Manutentore Impianti Gpl",
+      "azienda": "Omegna",
+      "comune": "Premosello-Chiovenda",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Idraulici Nelle Costruzioni Civili",
+      "qualifica": "CENTRO IMPIEGO DI OMEGNA CERCA PER AZIENDA DI PREMOSELLO-CHIOVENDA UNA FIGURA ADDETTA ALL'INSTALLAZIONE E MANUTENZIONE DI IMPIANTI GPL E METANO.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "12/08/2026",
+      "dataPubblicazione": "13/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0027994064425,8.3294459959254&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4257"
+    },
     {
       "id": 3641,
       "numAnnuncio": "20263641",
