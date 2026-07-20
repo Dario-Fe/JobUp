@@ -1,9 +1,27 @@
 {
-  "aggiornato": "19/07/2026 17:53",
+  "aggiornato": "20/07/2026 10:53",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 132,
+  "totale": 133,
   "annunci": [
+    {
+      "id": 758,
+      "numAnnuncio": "2026758",
+      "titolo": "Tecnico Riparatore A Verbania",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Installatori, Manutentori E Riparatori Di Apparecchiature Informatiche",
+      "qualifica": "RIPARAZIONE DI ATTREZZATURE PER UFFICIO/NEGOZI/RISTORANTI",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "19/08/2026",
+      "dataPubblicazione": "20/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=758"
+    },
     {
       "id": 4358,
       "numAnnuncio": "20264358",
@@ -2105,7 +2123,7 @@
       "qualifica": "OPERAIO GENERICO ART. 18 L 68/99",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Validato",
-      "dataScadenza": "05/07/2026",
+      "dataScadenza": "19/08/2026",
       "dataPubblicazione": "05/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1505"
