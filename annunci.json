@@ -1,8 +1,8 @@
 {
-  "aggiornato": "20/07/2026 10:53",
+  "aggiornato": "20/07/2026 18:21",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 133,
+  "totale": 130,
   "annunci": [
     {
       "id": 758,
@@ -725,24 +725,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3420"
     },
     {
-      "id": 3366,
-      "numAnnuncio": "20263366",
-      "titolo": "Elettricista Con Esperienza",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Elettricisti Ed Installatori Di Impianti Elettrici Nelle Costruzioni Civili",
-      "qualifica": "ELETTRICISTA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "03/07/2026",
-      "dataPubblicazione": "06/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3366"
-    },
-    {
       "id": 4072,
       "numAnnuncio": "20264072",
       "titolo": "Assistente Familiare A Ore",
@@ -759,24 +741,6 @@
       "dataPubblicazione": "03/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4072"
-    },
-    {
-      "id": 4039,
-      "numAnnuncio": "20264039",
-      "titolo": "Giardiniere - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Addetto Alla Manutenzione Del Verde",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - CAMPEGGIO CERCA UN/A ADDETTO/A ALLA MANUTENZIONE DEL VERDE DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/08/2026",
-      "dataPubblicazione": "02/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4039"
     },
     {
       "id": 3992,
@@ -1389,24 +1353,6 @@
       "dataPubblicazione": "26/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3357"
-    },
-    {
-      "id": 3323,
-      "numAnnuncio": "20263323",
-      "titolo": "Imbianchino",
-      "azienda": "Omegna",
-      "comune": "Baveno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Pittori Edili",
-      "qualifica": "IMBIANCHINO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "24/06/2026",
-      "dataPubblicazione": "25/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3323"
     },
     {
       "id": 3308,
