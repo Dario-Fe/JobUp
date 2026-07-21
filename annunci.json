@@ -1,9 +1,27 @@
 {
-  "aggiornato": "21/07/2026 10:24",
+  "aggiornato": "21/07/2026 18:19",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 130,
+  "totale": 129,
   "annunci": [
+    {
+      "id": 4404,
+      "numAnnuncio": "20264404",
+      "titolo": "Addetto Alle Pulizie - Art.1 L.68/99",
+      "azienda": "Borgomanero",
+      "comune": "Castelletto Sopra Ticino",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Addetto Ai Servizi Di Pulizia Di Uffici Ed Esercizi Commerciali",
+      "qualifica": "ADDETTI/E ALLE PULIZIE - PERSONALE PUNTO VENDITA APPARTENENTI ALLE CATEGORIE PROTETTE, ART.1 L. 68/99.",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "20/08/2026",
+      "dataPubblicazione": "21/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7141030173103,8.64248366438141&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4404"
+    },
     {
       "id": 4401,
       "numAnnuncio": "20264401",
@@ -1229,24 +1247,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3552"
     },
     {
-      "id": 3579,
-      "numAnnuncio": "20263579",
-      "titolo": "Operaio Di Produzione - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Gozzano",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Macchinari Per La Produzione In Serie Di Calzature",
-      "qualifica": "OPERAIO DI PRODUZIONE - ART1 L-68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "09/07/2026",
-      "dataPubblicazione": "09/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7475165624367,8.4346948173131&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3579"
-    },
-    {
       "id": 3555,
       "numAnnuncio": "20263555",
       "titolo": "Operaio Alimentare - Art.1 L.68/99",
@@ -1497,24 +1497,6 @@
       "dataPubblicazione": "18/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3112"
-    },
-    {
-      "id": 3086,
-      "numAnnuncio": "20263086",
-      "titolo": "Receptionist",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "CERCHIAMO UNA PERSONA PER ATTIVITA' DI RECEPTION, ARCHIVIAZIONE, ACCOGLIENZA CLIENTI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "16/08/2026",
-      "dataPubblicazione": "18/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
     },
     {
       "id": 2976,
