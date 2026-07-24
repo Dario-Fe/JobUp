@@ -1,9 +1,27 @@
 {
-  "aggiornato": "23/07/2026 18:26",
+  "aggiornato": "24/07/2026 10:24",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 126,
+  "totale": 127,
   "annunci": [
+    {
+      "id": 4473,
+      "numAnnuncio": "20264473",
+      "titolo": "Grafico",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Grafici",
+      "qualifica": "GRAFICO/A",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "23/08/2026",
+      "dataPubblicazione": "24/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4473"
+    },
     {
       "id": 4465,
       "numAnnuncio": "20264465",
