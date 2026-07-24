@@ -1,9 +1,27 @@
 {
-  "aggiornato": "24/07/2026 10:24",
+  "aggiornato": "24/07/2026 18:43",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 128,
   "annunci": [
+    {
+      "id": 4489,
+      "numAnnuncio": "20264489",
+      "titolo": "Assistente Familiare Convivente",
+      "azienda": "Omegna",
+      "comune": "Mergozzo",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "23/08/2026",
+      "dataPubblicazione": "24/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9610175925271,8.45295716612677&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4489"
+    },
     {
       "id": 4473,
       "numAnnuncio": "20264473",
