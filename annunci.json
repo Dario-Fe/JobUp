@@ -1,9 +1,27 @@
 {
-  "aggiornato": "28/07/2026 10:29",
+  "aggiornato": "28/07/2026 18:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 131,
+  "totale": 130,
   "annunci": [
+    {
+      "id": 4519,
+      "numAnnuncio": "20264519",
+      "titolo": "Addetto Sicurezza",
+      "azienda": "Omegna",
+      "comune": "Gravellona Toce",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Guardie Private Di Sicurezza",
+      "qualifica": "ADDETTO SICUREZZA NON ARMATO, VERIFICHE DIFFERENZE INVENTARIALI, SERVIZI FIDUCIARI, SERVIZI ANTITACCHEGGIO.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "27/08/2026",
+      "dataPubblicazione": "28/07/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4519"
+    },
     {
       "id": 3929,
       "numAnnuncio": "20263929",
@@ -453,24 +471,6 @@
       "dataPubblicazione": "16/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4338"
-    },
-    {
-      "id": 4330,
-      "numAnnuncio": "20264330",
-      "titolo": "Operaio Assemblatore – Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Pogno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
-      "qualifica": "OPERAIO ASSEMBLATORE – ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "15/08/2026",
-      "dataPubblicazione": "16/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7566483795481,8.38309153454244&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4330"
     },
     {
       "id": 4327,
@@ -1371,24 +1371,6 @@
       "dataPubblicazione": "11/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3552"
-    },
-    {
-      "id": 3555,
-      "numAnnuncio": "20263555",
-      "titolo": "Operaio Alimentare - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Gattico-Veruno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Conduttori Di Apparecchi Per La Lavorazione Industriale Di Prodotti Lattiero – Caseari",
-      "qualifica": "OPERAIO ALIMENTARE - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/07/2026",
-      "dataPubblicazione": "08/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3555"
     },
     {
       "id": 3307,
