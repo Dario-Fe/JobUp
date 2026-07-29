@@ -1,8 +1,8 @@
 {
-  "aggiornato": "29/07/2026 10:36",
+  "aggiornato": "29/07/2026 18:17",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 128,
+  "totale": 127,
   "annunci": [
     {
       "id": 4539,
@@ -525,24 +525,6 @@
       "dataPubblicazione": "15/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2609"
-    },
-    {
-      "id": 2343,
-      "numAnnuncio": "20262343",
-      "titolo": "Barista",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Baristi E Professioni Assimilate",
-      "qualifica": "BARISTA IN RICEVITORIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "15/07/2026",
-      "dataPubblicazione": "15/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2343"
     },
     {
       "id": 4274,
