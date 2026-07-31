@@ -1,8 +1,8 @@
 {
-  "aggiornato": "30/07/2026 18:23",
+  "aggiornato": "31/07/2026 10:45",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 131,
+  "totale": 129,
   "annunci": [
     {
       "id": 4572,
@@ -311,24 +311,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4473"
     },
     {
-      "id": 4465,
-      "numAnnuncio": "20264465",
-      "titolo": "Addetta/O Alle Pulizie - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Operai Addetti Ai Servizi Di Igiene E Pulizia",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA LEADER NEL SETTORE DELL'ENERGIA CERCA UN/A ADDETTO/A ALLE PULIZIE E PICCOLE ATTIVITA' MANUTENTIVE DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "22/08/2026",
-      "dataPubblicazione": "23/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4465"
-    },
-    {
       "id": 4451,
       "numAnnuncio": "20264451",
       "titolo": "Parrucchiera",
@@ -581,24 +563,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4325"
     },
     {
-      "id": 4313,
-      "numAnnuncio": "20264313",
-      "titolo": "Addetto It - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Tecnici Esperti In Applicazioni",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA LEADER NEL SETTORE DELL'ENERGIA CERCA UN ADDETTO IT DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "14/08/2026",
-      "dataPubblicazione": "15/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4313"
-    },
-    {
       "id": 2609,
       "numAnnuncio": "20262609",
       "titolo": "Cuoco/A",
@@ -719,7 +683,7 @@
       "qualifica": "OPERATORE SOCIO SANITARIO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "10/07/2026",
+      "dataScadenza": "30/08/2026",
       "dataPubblicazione": "13/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3614"
@@ -1439,7 +1403,7 @@
       "qualifica": "OPERATORE SOCIO SANITARIO ART.18 L.68/99",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "06/08/2026",
+      "dataScadenza": "30/08/2026",
       "dataPubblicazione": "26/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3357"
@@ -1493,7 +1457,7 @@
       "qualifica": "DISEGNATORE TECNICO-PROGETTISTA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "24/07/2026",
+      "dataScadenza": "30/08/2026",
       "dataPubblicazione": "21/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=150"
@@ -1619,7 +1583,7 @@
       "qualifica": "ADDETTO ALLA REALIZZAZIONE DEGLI IMPIANTI ELETTRICI",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "26/07/2026",
+      "dataScadenza": "30/08/2026",
       "dataPubblicazione": "06/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=676"
