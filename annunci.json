@@ -1,9 +1,27 @@
 {
-  "aggiornato": "04/08/2026 10:32",
+  "aggiornato": "04/08/2026 18:49",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 129,
+  "totale": 128,
   "annunci": [
+    {
+      "id": 4612,
+      "numAnnuncio": "20264612",
+      "titolo": "Carpentiere Edile",
+      "azienda": "Omegna",
+      "comune": "Ornavasso",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Muratori In Pietra E Mattoni",
+      "qualifica": "CARPENTIERE EDILE PER EDILIZIA RESIDENZIALE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "03/09/2026",
+      "dataPubblicazione": "04/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9692679899888,8.41576272006029&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4612"
+    },
     {
       "id": 4572,
       "numAnnuncio": "20264572",
@@ -1319,24 +1337,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3664"
     },
     {
-      "id": 3656,
-      "numAnnuncio": "20263656",
-      "titolo": "Aiuto Imbianchino",
-      "azienda": "Omegna",
-      "comune": "Villadossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Pittori Edili",
-      "qualifica": "AIUTO IMBIANCHINO, POSATURA CARTONGESSO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "12/07/2026",
-      "dataPubblicazione": "12/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0677841279159,8.26017424759947&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3656"
-    },
-    {
       "id": 3552,
       "numAnnuncio": "20263552",
       "titolo": "Estetista Qualificata Tempo Parziale",
@@ -1425,24 +1425,6 @@
       "dataPubblicazione": "25/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8838923098845,8.54082543061692&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3308"
-    },
-    {
-      "id": 3241,
-      "numAnnuncio": "20263241",
-      "titolo": "Aiuto Cuoco/A",
-      "azienda": "Omegna",
-      "comune": "Druogno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "AIUTO CUCINA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "22/07/2026",
-      "dataPubblicazione": "21/05/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1353568037812,8.4318478378963&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3241"
     },
     {
       "id": 150,
