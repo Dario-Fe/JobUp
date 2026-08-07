@@ -1,9 +1,27 @@
 {
-  "aggiornato": "06/08/2026 10:32",
+  "aggiornato": "07/08/2026 09:11",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 119,
   "annunci": [
+    {
+      "id": 4645,
+      "numAnnuncio": "20264645",
+      "titolo": "Guardie Particolari Giurate",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Guardie Private Di Sicurezza",
+      "qualifica": "GUARDIE PARTICOLARI GIURATE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "05/09/2026",
+      "dataPubblicazione": "06/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4645"
+    },
     {
       "id": 4060,
       "numAnnuncio": "20264060",
@@ -507,24 +525,6 @@
       "dataPubblicazione": "21/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7141030173103,8.64248366438141&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4404"
-    },
-    {
-      "id": 4401,
-      "numAnnuncio": "20264401",
-      "titolo": "Addetti Alla Preparazione Di Cibi D Rosticceria",
-      "azienda": "Omegna",
-      "comune": "Trontano",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA PER AZIENDA OPERANTE NEL SETTORE DELLA VENDITA AMBULANTE ALIMENTARE RICERCA UN/A ADDETTO/A ALLA PREPARAZIONE CIBI PER POLLERIA E ROSTICCERIA AMBULANTE.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "20/08/2026",
-      "dataPubblicazione": "21/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.122232131019,8.33448664959544&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4401"
     },
     {
       "id": 758,
