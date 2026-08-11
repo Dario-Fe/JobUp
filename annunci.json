@@ -1,9 +1,27 @@
 {
-  "aggiornato": "11/08/2026 09:02",
+  "aggiornato": "11/08/2026 18:03",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 121,
+  "totale": 120,
   "annunci": [
+    {
+      "id": 4686,
+      "numAnnuncio": "20264686",
+      "titolo": "Addetto Paghe Ed Amministrazione Personale",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti Alla Gestione Del Personale",
+      "qualifica": "ADDETTO ELABORAZIONE PAGHE ED AMMINISTRAZIONE DEL PERSONALE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "10/09/2026",
+      "dataPubblicazione": "11/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4686"
+    },
     {
       "id": 4682,
       "numAnnuncio": "20264682",
@@ -79,7 +97,7 @@
     {
       "id": 4667,
       "numAnnuncio": "20264667",
-      "titolo": "Cercasi Apprendista Idraulico/Frigorista",
+      "titolo": "Apprendista Idraulico/Frigorista",
       "azienda": "Omegna",
       "comune": "Villadossola",
       "provincia": "Verbano Cusio Ossola",
@@ -327,24 +345,6 @@
       "dataPubblicazione": "29/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9563332635437,8.61714339974774&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4539"
-    },
-    {
-      "id": 4538,
-      "numAnnuncio": "20264538",
-      "titolo": "Impiegata/O  - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA CHE SI OCCUPA DI COMMERCIO PRODOTTI ALIMENTARI CERCA UN/A IMPIEGATO/A AMMINISTRATIVO DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "28/08/2026",
-      "dataPubblicazione": "29/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4538"
     },
     {
       "id": 3929,
@@ -1893,24 +1893,6 @@
       "dataPubblicazione": "16/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7475165624367,8.4346948173131&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1758"
-    },
-    {
-      "id": 1755,
-      "numAnnuncio": "20261755",
-      "titolo": "Assistente Familiare A Ore",
-      "azienda": "Omegna",
-      "comune": "Pallanzeno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE A ORE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "16/04/2026",
-      "dataPubblicazione": "16/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0434628633672,8.25788417567554&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1755"
     },
     {
       "id": 850,
