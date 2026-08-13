@@ -1,8 +1,8 @@
 {
-  "aggiornato": "12/08/2026 17:55",
+  "aggiornato": "13/08/2026 09:22",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 116,
+  "totale": 115,
   "annunci": [
     {
       "id": 2505,
@@ -122,7 +122,7 @@
       "cpi": "Omegna",
       "contratto": "Tirocinio",
       "profilo": "Idraulici Nelle Costruzioni Civili",
-      "qualifica": "APPRENDISTA DI IMPIANTI TERMOIDRAULICI E DI CONDIZIONAMENTO",
+      "qualifica": "APPRENDISTA SU IMPIANTI TERMOIDRAULICI E DI CONDIZIONAMENTO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
       "dataScadenza": "09/09/2026",
@@ -1119,24 +1119,6 @@
       "dataPubblicazione": "22/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3539"
-    },
-    {
-      "id": 3813,
-      "numAnnuncio": "20263813",
-      "titolo": "Art 1 L. 68/99 Assemblaggio",
-      "azienda": "Borgosesia",
-      "comune": "Valduggia",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
-      "qualifica": "ASSEMBLAGGIO VALVOLE E GRUPPI",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
-      "dataPubblicazione": "19/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3813"
     },
     {
       "id": 3796,
