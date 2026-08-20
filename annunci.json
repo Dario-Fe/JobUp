@@ -1,9 +1,27 @@
 {
-  "aggiornato": "20/08/2026 08:40",
+  "aggiornato": "20/08/2026 17:28",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 113,
+  "totale": 114,
   "annunci": [
+    {
+      "id": 4769,
+      "numAnnuncio": "20264769",
+      "titolo": "Assistente Familiare  A Ore",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE A ORE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "19/09/2026",
+      "dataPubblicazione": "20/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4769"
+    },
     {
       "id": 4645,
       "numAnnuncio": "20264645",
@@ -809,7 +827,7 @@
       "qualifica": "ADDETTI/E ALLE PULIZIE - PERSONALE PUNTO VENDITA APPARTENENTI ALLE CATEGORIE PROTETTE, ART.1 L. 68/99.",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "20/08/2026",
+      "dataScadenza": "19/09/2026",
       "dataPubblicazione": "21/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7141030173103,8.64248366438141&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4404"
