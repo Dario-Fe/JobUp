@@ -1,9 +1,45 @@
 {
-  "aggiornato": "26/08/2026 08:43",
+  "aggiornato": "26/08/2026 18:13",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 117,
+  "totale": 118,
   "annunci": [
+    {
+      "id": 4818,
+      "numAnnuncio": "20264818",
+      "titolo": "Segretario/A Di Auto Officina",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Apprendistato",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA PER OFFICINA DI AUTORIPARAZIONI A VERBANIA UN/A SEGRETARIO/A IN APPRENDISTATO.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "25/09/2026",
+      "dataPubblicazione": "26/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4818"
+    },
+    {
+      "id": 3629,
+      "numAnnuncio": "20263629",
+      "titolo": "Tirocinio In Segreteria",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Tirocinio",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "TIROCINIO IN SEGRETERIA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "25/09/2026",
+      "dataPubblicazione": "26/08/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3629"
+    },
     {
       "id": 3206,
       "numAnnuncio": "20263206",
@@ -35,7 +71,7 @@
       "qualifica": "OPERAIO GENERICO PER LAVORAZIONE MANUALE DI LAPPATURA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/08/2026",
+      "dataScadenza": "25/09/2026",
       "dataPubblicazione": "25/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2273"
@@ -1043,7 +1079,7 @@
       "qualifica": "N°2 OPERATORI PER IL REPARTO LAPPATURA DI PRECISIONE SU GRANITO E CERAMICA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/08/2026",
+      "dataScadenza": "25/09/2026",
       "dataPubblicazione": "13/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3641"
@@ -1193,24 +1229,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3489"
     },
     {
-      "id": 4072,
-      "numAnnuncio": "20264072",
-      "titolo": "Assistente Familiare A Ore",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE A ORE INTRA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "02/08/2026",
-      "dataPubblicazione": "03/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4072"
-    },
-    {
       "id": 3927,
       "numAnnuncio": "20263927",
       "titolo": "Progettista Meccanico / Disegnatore Cad 3D",
@@ -1223,7 +1241,7 @@
       "qualifica": "PROGETTISTA MECCANICO / DISEGNATORE CAD 3D",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/08/2026",
+      "dataScadenza": "25/09/2026",
       "dataPubblicazione": "26/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3927"
@@ -1241,7 +1259,7 @@
       "qualifica": "ADDETTO / MACCHINISTA SU RETTIFICATRICI A CONTROLLO NUMERICO CNC",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "21/08/2026",
+      "dataScadenza": "25/09/2026",
       "dataPubblicazione": "25/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3363"
@@ -1277,7 +1295,7 @@
       "qualifica": "ADDETTO ALL’ASSEMBLAGGIO MECCANICO E STRUTTURALE / ADDETTO ALL’INCOLLAGGIO SU GRANITO E CERAMICA",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "21/08/2026",
+      "dataScadenza": "25/09/2026",
       "dataPubblicazione": "22/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3539"
