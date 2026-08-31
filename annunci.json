@@ -1,8 +1,8 @@
 {
-  "aggiornato": "30/08/2026 20:23",
+  "aggiornato": "31/08/2026 14:40",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 121,
   "annunci": [
     {
       "id": 4763,
@@ -201,24 +201,6 @@
       "dataPubblicazione": "26/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4818"
-    },
-    {
-      "id": 3629,
-      "numAnnuncio": "20263629",
-      "titolo": "Tirocinio In Segreteria",
-      "azienda": "Omegna",
-      "comune": "Omegna",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "TIROCINIO IN SEGRETERIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "25/09/2026",
-      "dataPubblicazione": "26/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3629"
     },
     {
       "id": 3206,
@@ -755,7 +737,7 @@
       "qualifica": "ASSISTENTI TECNICI JUNIOR – ART.1 L.68/99",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/08/2026",
+      "dataScadenza": "30/09/2026",
       "dataPubblicazione": "30/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4572"
@@ -773,7 +755,7 @@
       "qualifica": "OPERAIO DI MAGAZZINO",
       "categoria": "Collocamento mirato – Art. 1 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/08/2026",
+      "dataScadenza": "30/09/2026",
       "dataPubblicazione": "30/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.678333391316,8.40874210957535&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4568"
