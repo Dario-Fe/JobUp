@@ -1,9 +1,27 @@
 {
-  "aggiornato": "31/08/2026 22:36",
+  "aggiornato": "01/09/2026 13:05",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 122,
+  "totale": 121,
   "annunci": [
+    {
+      "id": 4874,
+      "numAnnuncio": "20264874",
+      "titolo": "Autista Consegnatario",
+      "azienda": "Borgomanero",
+      "comune": "Maggiora",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Gestione Dei Magazzini E Professioni Assimilate",
+      "qualifica": "MAGAZZINIERE CONSEGNATARIO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "01/10/2026",
+      "dataPubblicazione": "01/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6907626322814,8.42103367925003&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4874"
+    },
     {
       "id": 4886,
       "numAnnuncio": "20264886",
@@ -14,11 +32,11 @@
       "cpi": "Omegna",
       "contratto": "Lavoro A Tempo Indeterminato",
       "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA RICERCA UN/UNA ASSISTENTE FAMILIARE CONVIVENTE A SUNA PER ASSISTENZA A  UOMO DI 86 ANNI PARZIALMENTE AUTOSUFFICIENTE CON PROBLEMI DI DEAMBULAZIONE(CAMMINA CON BASTONE) E DI MEMORIA A BREVE TERMINE A SEGUITO DI UN TRAU",
+      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA RICERCA UN/UNA ASSISTENTE FAMILIARE CONVIVENTE A SUNA PER ASSISTENZA A  UOMO DI 86 ANNI PARZIALMENTE AUTOSUFFICIENTE CON PROBLEMI DI DEAMBULAZIONE(UTILIZZA UN BASTONE) E LIEVI DEFICIT DELLA MEMORIA A BREVE TERMINE.",
       "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
+      "stato": "Condiviso",
       "dataScadenza": "30/09/2026",
-      "dataPubblicazione": "31/08/2026",
+      "dataPubblicazione": "01/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4886"
     },
@@ -599,24 +617,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4682"
     },
     {
-      "id": 4680,
-      "numAnnuncio": "20264680",
-      "titolo": "Assistente Familiare Convivente",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASS",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "09/09/2026",
-      "dataPubblicazione": "10/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4680"
-    },
-    {
       "id": 4679,
       "numAnnuncio": "20264679",
       "titolo": "Assistente Familiare Convivente",
@@ -669,24 +669,6 @@
       "dataPubblicazione": "10/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0677841279159,8.26017424759947&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4667"
-    },
-    {
-      "id": 4351,
-      "numAnnuncio": "20264351",
-      "titolo": "Addetto Al Back Office Commerciale",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Agli Affari Generali",
-      "qualifica": "ADDETTO AL BACK OFFICE COMMERCIALE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "12/09/2026",
-      "dataPubblicazione": "10/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4351"
     },
     {
       "id": 3552,
@@ -809,7 +791,7 @@
       "qualifica": "ASSISTENTE FAMILIARE H24",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "29/08/2026",
+      "dataScadenza": "01/10/2026",
       "dataPubblicazione": "30/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0617492443941,8.70021681354984&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4556"
