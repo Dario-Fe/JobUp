@@ -1,9 +1,27 @@
 {
-  "aggiornato": "02/09/2026 12:37",
+  "aggiornato": "02/09/2026 20:22",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 124,
+  "totale": 125,
   "annunci": [
+    {
+      "id": 4921,
+      "numAnnuncio": "20264921",
+      "titolo": "Assistente Familiare A Ore",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA RICERCA PER FAMIGLIA DI VERBANIA UN/A ASSISTENTE FAMILIARE A ORE, PER ASSISTENZA AD UN DONNA DI 64 ANNI, PARZIALMENTE AUTOSUFFICIENTE CON DISTURBI MOTORI.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "02/10/2026",
+      "dataPubblicazione": "02/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4921"
+    },
     {
       "id": 4269,
       "numAnnuncio": "20264269",
