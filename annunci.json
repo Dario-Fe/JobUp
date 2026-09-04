@@ -1,9 +1,45 @@
 {
-  "aggiornato": "03/09/2026 20:18",
+  "aggiornato": "04/09/2026 12:34",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 121,
   "annunci": [
+    {
+      "id": 4976,
+      "numAnnuncio": "20264976",
+      "titolo": "Addetto Carico Scarico",
+      "azienda": "Borgosesia",
+      "comune": "Valduggia",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Delle Attività Industriali E Professioni Assimilate",
+      "qualifica": "ADDETTO CARICO SCARICO SU TORNI",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "04/10/2026",
+      "dataPubblicazione": "04/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4976"
+    },
+    {
+      "id": 4915,
+      "numAnnuncio": "20264915",
+      "titolo": "Addetto/A Ristorazione Domodossola",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti Alla Preparazione, Alla Cottura E Alla Vendita Di Cibi In Fast Food, Tavole Calde, Rosticcerie Ed Esercizi Assimilati",
+      "qualifica": "ADDETTO ALLA RISTORAZIONE/CREW",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "03/10/2026",
+      "dataPubblicazione": "04/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4915"
+    },
     {
       "id": 4918,
       "numAnnuncio": "20264918",
@@ -57,24 +93,6 @@
       "dataPubblicazione": "03/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4920"
-    },
-    {
-      "id": 4915,
-      "numAnnuncio": "20264915",
-      "titolo": "Addetto/A Ristorazione Domodossola",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti Alla Preparazione, Alla Cottura E Alla Vendita Di Cibi In Fast Food, Tavole Calde, Rosticcerie Ed Esercizi Assimilati",
-      "qualifica": "ADDETTO ALLA RISTORAZIONE/CREW",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "03/10/2026",
-      "dataPubblicazione": "03/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4915"
     },
     {
       "id": 4921,
@@ -345,24 +363,6 @@
       "dataPubblicazione": "27/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8300855126361,8.56477350995118&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4839"
-    },
-    {
-      "id": 4519,
-      "numAnnuncio": "20264519",
-      "titolo": "Addetto Sicurezza",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Guardie Private Di Sicurezza",
-      "qualifica": "ADDETTO SICUREZZA NON ARMATO, VERIFICHE DIFFERENZE INVENTARIALI, SERVIZI FIDUCIARI, SERVIZI ANTITACCHEGGIO.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/09/2026",
-      "dataPubblicazione": "27/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4519"
     },
     {
       "id": 4818,
@@ -1457,7 +1457,7 @@
       "qualifica": "AZIENDA DI VARALLO CERCA DISEGNATORE/TRICE DI TESSUTI ISCRITTO ALLE CATEGORIE PROTETTE ART. 18",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "27/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=740"
@@ -1871,7 +1871,7 @@
       "qualifica": "ATTREZZISTA MACCHINE AUTOMATICHE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "20/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1864"
@@ -1979,7 +1979,7 @@
       "qualifica": "ADDETTO/A TORNERIA E PULITURA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "27/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1337"
@@ -2033,7 +2033,7 @@
       "qualifica": "CONDUZIONE MACCHINE TORNERIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1178"
@@ -2051,7 +2051,7 @@
       "qualifica": "IMPIEGATO/A IN AMMINISTRAZIONE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1165"
@@ -2069,7 +2069,7 @@
       "qualifica": "ART. 18 ADDETTO AI SERVIZI DI PULIZIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1148"
@@ -2087,7 +2087,7 @@
       "qualifica": "ADD. AL CONFEZIONAMENTO",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "11/09/2026",
+      "dataScadenza": "04/10/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1146"
