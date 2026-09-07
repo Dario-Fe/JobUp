@@ -1,8 +1,8 @@
 {
-  "aggiornato": "06/09/2026 19:28",
+  "aggiornato": "07/09/2026 13:33",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 121,
+  "totale": 120,
   "annunci": [
     {
       "id": 4976,
@@ -741,24 +741,6 @@
       "dataPubblicazione": "10/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2902"
-    },
-    {
-      "id": 4667,
-      "numAnnuncio": "20264667",
-      "titolo": "Apprendista Idraulico/Frigorista",
-      "azienda": "Omegna",
-      "comune": "Villadossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Idraulici Nelle Costruzioni Civili",
-      "qualifica": "APPRENDISTA SU IMPIANTI TERMOIDRAULICI E DI CONDIZIONAMENTO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "09/09/2026",
-      "dataPubblicazione": "10/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0677841279159,8.26017424759947&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4667"
     },
     {
       "id": 3552,
