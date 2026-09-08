@@ -1,9 +1,27 @@
 {
-  "aggiornato": "07/09/2026 20:58",
+  "aggiornato": "08/09/2026 12:33",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 120,
+  "totale": 121,
   "annunci": [
+    {
+      "id": 5013,
+      "numAnnuncio": "20265013",
+      "titolo": "Operaio/A Addetto/A All'Assemblaggio",
+      "azienda": "Omegna",
+      "comune": "Casale Corte Cerro",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Delle Attività Industriali E Professioni Assimilate",
+      "qualifica": "CENTRO IMPIEGO DI OMEGNA CERCA PER AZIENDA METALMECCANICA A CASALE CORTE CERRO UN/A OPERAIO/A ADDETTO/A ALL'ASSEMBLAGGIO.",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "07/10/2026",
+      "dataPubblicazione": "07/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9168344437657,8.41502279162792&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5013"
+    },
     {
       "id": 4645,
       "numAnnuncio": "20264645",
