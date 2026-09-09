@@ -1,9 +1,27 @@
 {
-  "aggiornato": "09/09/2026 12:45",
+  "aggiornato": "09/09/2026 20:15",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 125,
   "annunci": [
+    {
+      "id": 5069,
+      "numAnnuncio": "20265069",
+      "titolo": "Assistente Familiare Convivente",
+      "azienda": "Omegna",
+      "comune": "Trontano",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Addetti All'Assistenza Personale",
+      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "09/10/2026",
+      "dataPubblicazione": "09/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.122232131019,8.33448664959544&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5069"
+    },
     {
       "id": 5068,
       "numAnnuncio": "20265068",
@@ -17,7 +35,7 @@
       "qualifica": "OPERAIO GENERICO - ART.18 L.68/99",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "09/10/2026",
+      "dataScadenza": "08/03/2027",
       "dataPubblicazione": "09/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5068"
@@ -381,24 +399,6 @@
       "dataPubblicazione": "28/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8838923098845,8.54082543061692&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4763"
-    },
-    {
-      "id": 4774,
-      "numAnnuncio": "20264774",
-      "titolo": "Assistente Familiare Convivente Baveno",
-      "azienda": "Omegna",
-      "comune": "Baveno",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE IN CONVIVENZA BAVENO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "20/09/2026",
-      "dataPubblicazione": "28/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9089366662597,8.50493841871763&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4774"
     },
     {
       "id": 4778,
@@ -977,24 +977,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4565"
     },
     {
-      "id": 4556,
-      "numAnnuncio": "20264556",
-      "titolo": "Assistente Familiare H24",
-      "azienda": "Omegna",
-      "comune": "Cannobio",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE H24",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/10/2026",
-      "dataPubblicazione": "30/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0617492443941,8.70021681354984&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4556"
-    },
-    {
       "id": 4539,
       "numAnnuncio": "20264539",
       "titolo": "Meccanico - Art. 1 Legge 68/99",
@@ -1211,24 +1193,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4357"
     },
     {
-      "id": 4352,
-      "numAnnuncio": "20264352",
-      "titolo": "Collaboratrice Domestica",
-      "azienda": "Omegna",
-      "comune": "Mergozzo",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Collaboratori Domestici E Professioni Assimilate",
-      "qualifica": "COLLABORATRICE DOMESTICA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "16/08/2026",
-      "dataPubblicazione": "17/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9610175925271,8.45295716612677&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4352"
-    },
-    {
       "id": 4325,
       "numAnnuncio": "20264325",
       "titolo": "Idraulico",
@@ -1349,7 +1313,7 @@
       "qualifica": "IDRAULICO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "11/07/2026",
+      "dataScadenza": "09/10/2026",
       "dataPubblicazione": "09/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2831"
