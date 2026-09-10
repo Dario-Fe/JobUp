@@ -1,9 +1,27 @@
 {
-  "aggiornato": "10/09/2026 12:35",
+  "aggiornato": "10/09/2026 20:00",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 125,
   "annunci": [
+    {
+      "id": 3086,
+      "numAnnuncio": "20263086",
+      "titolo": "Estetista",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Estetisti E Truccatori",
+      "qualifica": "AVVIATO CENTRO ESTETICO CERCA UN'ESTETISTA CON ESPERIENZA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "08/10/2026",
+      "dataPubblicazione": "10/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
+    },
     {
       "id": 5069,
       "numAnnuncio": "20265069",
@@ -129,24 +147,6 @@
       "dataPubblicazione": "09/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5014"
-    },
-    {
-      "id": 3086,
-      "numAnnuncio": "20263086",
-      "titolo": "Receptionist",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "CERCHIAMO UNA PERSONA PER ATTIVITA' DI RECEPTION, ARCHIVIAZIONE, ACCOGLIENZA CLIENTI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/10/2026",
-      "dataPubblicazione": "08/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
     },
     {
       "id": 5013,
@@ -341,7 +341,7 @@
       "qualifica": "IMPIEGATO/A AMMINISTRATIVO CONTABILE",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "01/10/2026",
+      "dataScadenza": "02/10/2026",
       "dataPubblicazione": "01/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7603765633637,8.55950627919034&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4880"
@@ -809,7 +809,7 @@
       "qualifica": "BARISTA IN RICEVITORIA",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "13/09/2026",
+      "dataScadenza": "10/10/2026",
       "dataPubblicazione": "14/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2343"
@@ -1061,7 +1061,7 @@
       "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "23/08/2026",
+      "dataScadenza": "10/10/2026",
       "dataPubblicazione": "24/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9610175925271,8.45295716612677&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4489"
@@ -2069,7 +2069,7 @@
       "qualifica": "ADDETTO/A ALLE PULIZIE IN TIROCINIO",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "13/09/2026",
+      "dataScadenza": "10/10/2026",
       "dataPubblicazione": "25/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9970025612173,8.65295426273856&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1258"
