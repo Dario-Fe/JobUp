@@ -2,6 +2,8 @@
 
 Webapp per consultare le offerte di lavoro del Verbano Cusio Ossola, tratte dal portale ufficiale [pslp.regione.piemonte.it](https://pslp.regione.piemonte.it).
 
+Consultabile su: [https://job-up.netlify.app](https://job-up.netlify.app)
+
 ## Come funziona
 
 1. **GitHub Actions** esegue lo scraper Python **due volte al giorno** (08:00 e 17:00 ora locale italiana)
