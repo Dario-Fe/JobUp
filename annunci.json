@@ -1,9 +1,27 @@
 {
-  "aggiornato": "14/09/2026 13:46",
+  "aggiornato": "14/09/2026 21:43",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 127,
+  "totale": 128,
   "annunci": [
+    {
+      "id": 5152,
+      "numAnnuncio": "20265152",
+      "titolo": "Cercasi  Un Meccanico Auto E Un Meccanico Autocarr",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Meccanici Motoristi E Riparatori Di Veicoli A Motore",
+      "qualifica": "MECCANICO AUTO E AUTOCARRI",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "14/10/2026",
+      "dataPubblicazione": "14/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5152"
+    },
     {
       "id": 5149,
       "numAnnuncio": "20265149",
