@@ -1,9 +1,27 @@
 {
-  "aggiornato": "14/09/2026 21:43",
+  "aggiornato": "15/09/2026 13:03",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 128,
   "annunci": [
+    {
+      "id": 5182,
+      "numAnnuncio": "20265182",
+      "titolo": "Operaio/A Edile",
+      "azienda": "Omegna",
+      "comune": "Verbania",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Manovali E Personale Non Qualificato Dell’Edilizia Civile E Professioni Assimilate",
+      "qualifica": "OPERAIO/A EDILE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "15/10/2026",
+      "dataPubblicazione": "15/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5182"
+    },
     {
       "id": 5152,
       "numAnnuncio": "20265152",
@@ -1047,24 +1065,6 @@
       "dataPubblicazione": "30/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4565"
-    },
-    {
-      "id": 4539,
-      "numAnnuncio": "20264539",
-      "titolo": "Meccanico - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Ghiffa",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti A Telai Meccanici E A Macchinari Per La Tessitura E La Maglieria",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA TESSILE CERCA UN MECCANICO DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "28/08/2026",
-      "dataPubblicazione": "29/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9563332635437,8.61714339974774&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4539"
     },
     {
       "id": 3929,
