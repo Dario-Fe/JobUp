@@ -1,9 +1,27 @@
 {
-  "aggiornato": "22/09/2026 12:57",
+  "aggiornato": "22/09/2026 20:28",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 135,
+  "totale": 136,
   "annunci": [
+    {
+      "id": 5341,
+      "numAnnuncio": "20265341",
+      "titolo": "Operaio Addetto Assemblaggio - Art.1 L.68/99",
+      "azienda": "Borgomanero",
+      "comune": "Varallo Pombia",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Assemblatori In Serie Di Articoli In Metallo, In Gomma E In Materie Plastiche",
+      "qualifica": "OPERAIO ADDETTO ASSEMBLAGGIO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "22/10/2026",
+      "dataPubblicazione": "22/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5341"
+    },
     {
       "id": 5323,
       "numAnnuncio": "20265323",
