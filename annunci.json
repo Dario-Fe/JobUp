@@ -1,9 +1,27 @@
 {
-  "aggiornato": "21/09/2026 21:50",
+  "aggiornato": "22/09/2026 12:57",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 135,
   "annunci": [
+    {
+      "id": 5323,
+      "numAnnuncio": "20265323",
+      "titolo": "Addetto Consegne E Magazzino",
+      "azienda": "Omegna",
+      "comune": "Beura-Cardezza",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alle Consegne Di Merci",
+      "qualifica": "ADDETTO AL MAGAZZINO E ALLE CONSEGNE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "22/10/2026",
+      "dataPubblicazione": "22/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0788422388805,8.29945078792245&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5323"
+    },
     {
       "id": 5301,
       "numAnnuncio": "20265301",
@@ -561,24 +579,6 @@
       "dataPubblicazione": "09/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5060"
-    },
-    {
-      "id": 5051,
-      "numAnnuncio": "20265051",
-      "titolo": "Impiegato/A Contabile",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti Alla Contabilità",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA PER AGENZIA IMMOBILIARE A VERBANIA UN/A IMPIEGATO/A AMMINISTRATIVO-CONTABILE DA INSERIRE STABILMENTE NEL PROPRIO ORGANICO.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "09/10/2026",
-      "dataPubblicazione": "09/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5051"
     },
     {
       "id": 4976,
