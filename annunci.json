@@ -1,8 +1,8 @@
 {
-  "aggiornato": "22/09/2026 20:28",
+  "aggiornato": "23/09/2026 12:45",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 136,
+  "totale": 135,
   "annunci": [
     {
       "id": 5341,
@@ -1425,24 +1425,6 @@
       "dataPubblicazione": "16/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0027994064425,8.3294459959254&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4325"
-    },
-    {
-      "id": 2609,
-      "numAnnuncio": "20262609",
-      "titolo": "Cuoco/A",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Cuochi In Alberghi E Ristoranti",
-      "qualifica": "CUOCO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "14/08/2026",
-      "dataPubblicazione": "15/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2609"
     },
     {
       "id": 4257,
