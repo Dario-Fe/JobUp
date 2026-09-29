@@ -1,9 +1,27 @@
 {
-  "aggiornato": "29/09/2026 14:07",
+  "aggiornato": "29/09/2026 21:45",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 119,
+  "totale": 120,
   "annunci": [
+    {
+      "id": 5543,
+      "numAnnuncio": "20265543",
+      "titolo": "Addetto Alla Contabilita'",
+      "azienda": "Borgomanero",
+      "comune": "Orta San Giulio",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Contabilità",
+      "qualifica": "ADDETTO ALLA CONTABILITA'",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "29/10/2026",
+      "dataPubblicazione": "29/09/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.799892245802,8.40529315189605&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5543"
+    },
     {
       "id": 5059,
       "numAnnuncio": "20265059",
