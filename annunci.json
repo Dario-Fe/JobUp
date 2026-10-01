@@ -1,8 +1,8 @@
 {
-  "aggiornato": "30/09/2026 21:46",
+  "aggiornato": "01/10/2026 14:25",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 117,
+  "totale": 114,
   "annunci": [
     {
       "id": 5551,
@@ -129,24 +129,6 @@
       "dataPubblicazione": "29/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4920"
-    },
-    {
-      "id": 5481,
-      "numAnnuncio": "20265481",
-      "titolo": "Segretaria Di Studio Professionale",
-      "azienda": "Omegna",
-      "comune": "Villadossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "CENTRO IMPIEGO DI OMEGNA CERCA UN/A SEGRETARIO/A PER STUDIO PROFESSIONALE DI DOMODOSSOLA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "28/10/2026",
-      "dataPubblicazione": "28/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0677841279159,8.26017424759947&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5481"
     },
     {
       "id": 5470,
@@ -1245,42 +1227,6 @@
       "dataPubblicazione": "09/07/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2831"
-    },
-    {
-      "id": 4169,
-      "numAnnuncio": "20264169",
-      "titolo": "Portinaio/A",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Personale Non Qualificato Addetto Ai Servizi Di Custodia Di Edifici",
-      "qualifica": "PORTINAIO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "07/08/2026",
-      "dataPubblicazione": "08/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4169"
-    },
-    {
-      "id": 4137,
-      "numAnnuncio": "20264137",
-      "titolo": "Assistente Familiare Ad Ore",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE AD ORE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "17/09/2026",
-      "dataPubblicazione": "07/07/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4137"
     },
     {
       "id": 4073,
