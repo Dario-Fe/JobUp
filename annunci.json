@@ -1,9 +1,27 @@
 {
-  "aggiornato": "01/10/2026 14:25",
+  "aggiornato": "01/10/2026 22:08",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 114,
+  "totale": 111,
   "annunci": [
+    {
+      "id": 5660,
+      "numAnnuncio": "20265660",
+      "titolo": "Addetto/A Carico Scarico, Brasatura E Assemblaggio",
+      "azienda": "Borgosesia",
+      "comune": "Valduggia",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Assemblatori In Serie Di Articoli In Metallo, In Gomma E In Materie Plastiche",
+      "qualifica": "ADDETTO/A CARICO, SCARICO, BRASATURA E ASSEMBLAGGIO – CONTRATTO A TEMPO DETERMINATO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "31/10/2026",
+      "dataPubblicazione": "01/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5660"
+    },
     {
       "id": 5551,
       "numAnnuncio": "20265551",
@@ -21,24 +39,6 @@
       "dataPubblicazione": "30/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5551"
-    },
-    {
-      "id": 4886,
-      "numAnnuncio": "20264886",
-      "titolo": "Assistente Familiare Convivente",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA RICERCA UN/UNA ASSISTENTE FAMILIARE CONVIVENTE A SUNA PER ASSISTENZA A  UOMO DI 86 ANNI PARZIALMENTE AUTOSUFFICIENTE CON PROBLEMI DI DEAMBULAZIONE(UTILIZZA UN BASTONE) E LIEVI DEFICIT DELLA MEMORIA A BREVE TERMINE.",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "30/09/2026",
-      "dataPubblicazione": "30/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4886"
     },
     {
       "id": 5059,
@@ -257,24 +257,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=758"
     },
     {
-      "id": 5341,
-      "numAnnuncio": "20265341",
-      "titolo": "Operaio Addetto Assemblaggio - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Varallo Pombia",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli In Metallo, In Gomma E In Materie Plastiche",
-      "qualifica": "OPERAIO ADDETTO ASSEMBLAGGIO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "22/10/2026",
-      "dataPubblicazione": "22/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5341"
-    },
-    {
       "id": 5323,
       "numAnnuncio": "20265323",
       "titolo": "Addetto Consegne E Magazzino",
@@ -327,24 +309,6 @@
       "dataPubblicazione": "21/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5303"
-    },
-    {
-      "id": 5284,
-      "numAnnuncio": "20265284",
-      "titolo": "Addetto Alla Segreteria - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Castelletto Sopra Ticino",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "ADDETTO ALLA SEGRETERIA - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "21/10/2026",
-      "dataPubblicazione": "21/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7141030173103,8.64248366438141&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5284"
     },
     {
       "id": 5288,
@@ -881,7 +845,7 @@
       "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA PER OFFICINA DI AUTORIPARAZIONI A VERBANIA UN/A SEGRETARIO/A IN APPRENDISTATO.",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "25/09/2026",
+      "dataScadenza": "31/10/2026",
       "dataPubblicazione": "26/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4818"
@@ -921,24 +885,6 @@
       "dataPubblicazione": "21/08/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1369853341918,8.32647605688325&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4782"
-    },
-    {
-      "id": 4766,
-      "numAnnuncio": "20264766",
-      "titolo": "Assistente Familiare  A Ore",
-      "azienda": "Omegna",
-      "comune": "Ghiffa",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE A ORE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "18/09/2026",
-      "dataPubblicazione": "19/08/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9563332635437,8.61714339974774&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4766"
     },
     {
       "id": 3113,
