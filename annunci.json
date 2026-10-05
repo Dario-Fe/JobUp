@@ -1,9 +1,27 @@
 {
-  "aggiornato": "05/10/2026 15:34",
+  "aggiornato": "05/10/2026 23:47",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 108,
   "annunci": [
+    {
+      "id": 5794,
+      "numAnnuncio": "20265794",
+      "titolo": "Operaio Di Produzione - Art. 1 L.68/99",
+      "azienda": "Borgomanero",
+      "comune": "Gozzano",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti A Macchinari Per La Produzione In Serie Di Calzature",
+      "qualifica": "OPERAIO DI PRODUZIONE - ART.1 L 68/99",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "04/11/2026",
+      "dataPubblicazione": "05/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7475165624367,8.4346948173131&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5794"
+    },
     {
       "id": 3113,
       "numAnnuncio": "20263113",
@@ -147,24 +165,6 @@
       "dataPubblicazione": "29/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.799892245802,8.40529315189605&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5543"
-    },
-    {
-      "id": 5253,
-      "numAnnuncio": "20265253",
-      "titolo": "Tirocinante Digital Marketing E Comunicazione",
-      "azienda": "Borgosesia",
-      "comune": "Quarona",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Tirocinio",
-      "profilo": "Tecnici Del Marketing",
-      "qualifica": "TIROCINANTE DIGITAL MARKETING E COMUNICAZIONE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "29/10/2026",
-      "dataPubblicazione": "29/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.759901551445,8.26542694654601&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5253"
     },
     {
       "id": 4920,
