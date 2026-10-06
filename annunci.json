@@ -1,8 +1,8 @@
 {
-  "aggiornato": "06/10/2026 14:44",
+  "aggiornato": "06/10/2026 21:57",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 110,
+  "totale": 109,
   "annunci": [
     {
       "id": 5895,
@@ -1515,24 +1515,6 @@
       "dataPubblicazione": "29/04/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8219811887427,8.43917253708354&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1964"
-    },
-    {
-      "id": 2684,
-      "numAnnuncio": "20262684",
-      "titolo": "Parrucchiere/Estetista - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Castelletto Sopra Ticino",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Acconciatori",
-      "qualifica": "PARRUCCHIERE/ESTETISTA",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "08/07/2026",
-      "dataPubblicazione": "27/04/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7141030173103,8.64248366438141&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2684"
     },
     {
       "id": 2558,
