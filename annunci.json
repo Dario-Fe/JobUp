@@ -1,9 +1,27 @@
 {
-  "aggiornato": "06/10/2026 21:57",
+  "aggiornato": "07/10/2026 14:38",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 109,
   "annunci": [
+    {
+      "id": 4645,
+      "numAnnuncio": "20264645",
+      "titolo": "Guardie Particolari Giurate",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Guardie Private Di Sicurezza",
+      "qualifica": "GUARDIE PARTICOLARI GIURATE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "07/10/2026",
+      "dataPubblicazione": "07/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4645"
+    },
     {
       "id": 5895,
       "numAnnuncio": "20265895",
@@ -705,24 +723,6 @@
       "dataPubblicazione": "09/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5068"
-    },
-    {
-      "id": 4645,
-      "numAnnuncio": "20264645",
-      "titolo": "Guardie Particolari Giurate",
-      "azienda": "Omegna",
-      "comune": "Omegna",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Guardie Private Di Sicurezza",
-      "qualifica": "GUARDIE PARTICOLARI GIURATE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "07/10/2026",
-      "dataPubblicazione": "07/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4645"
     },
     {
       "id": 4922,
