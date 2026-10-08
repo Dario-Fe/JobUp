@@ -1,9 +1,27 @@
 {
-  "aggiornato": "07/10/2026 22:28",
+  "aggiornato": "08/10/2026 14:47",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 110,
+  "totale": 111,
   "annunci": [
+    {
+      "id": 6009,
+      "numAnnuncio": "20266009",
+      "titolo": "Addetto/A Customer Service",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti All'Accoglienza E All'Informazione Nelle Imprese E Negli Enti Pubblici",
+      "qualifica": "ADDETTO/A CUSTOMER SERVICE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Condiviso",
+      "dataScadenza": "07/11/2026",
+      "dataPubblicazione": "08/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6009"
+    },
     {
       "id": 5955,
       "numAnnuncio": "20265955",
