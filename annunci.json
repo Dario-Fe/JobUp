@@ -1,8 +1,8 @@
 {
-  "aggiornato": "18/10/2026 19:44",
+  "aggiornato": "19/10/2026 14:05",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 106,
+  "totale": 105,
   "annunci": [
     {
       "id": 5243,
@@ -53,7 +53,7 @@
       "qualifica": "MECCANICO AUTO E AUTOCARRI",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "14/10/2026",
+      "dataScadenza": "18/11/2026",
       "dataPubblicazione": "16/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5152"
@@ -377,7 +377,7 @@
       "qualifica": "ADDETTO/A BAR E PICCOLA CUCINA CON MINIMA ESPERIENZA NEL SETTORE, ORARIO PART TIME 09:00-14:00, ANCHE WEEKEND, 1 GIORNO DI RIPOSO INFRASETTIMANALE",
       "categoria": "Offerta ordinaria",
       "stato": "Preso in carico",
-      "dataScadenza": "16/10/2026",
+      "dataScadenza": "18/11/2026",
       "dataPubblicazione": "05/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3113"
@@ -1227,24 +1227,6 @@
       "dataPubblicazione": "26/06/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3927"
-    },
-    {
-      "id": 3882,
-      "numAnnuncio": "20263882",
-      "titolo": "Commesso/A Di Tabaccheria/Ricevitoria",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Commessi Delle Vendite Al Minuto",
-      "qualifica": "COMMESSO/A DI TABACCHERIA, RICEVITORIA, EDICOLA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "21/10/2026",
-      "dataPubblicazione": "24/06/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3882"
     },
     {
       "id": 3770,
