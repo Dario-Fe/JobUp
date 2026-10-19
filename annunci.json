@@ -1,9 +1,27 @@
 {
-  "aggiornato": "19/10/2026 14:05",
+  "aggiornato": "19/10/2026 22:20",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 105,
+  "totale": 106,
   "annunci": [
+    {
+      "id": 5217,
+      "numAnnuncio": "20265217",
+      "titolo": "Art.1 L.68/99 Add. Confezionamento",
+      "azienda": "Borgosesia",
+      "comune": "Valduggia",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Installatori E Montatori Di Apparecchi E Impianti Termoidraulici Industriali",
+      "qualifica": "ADDETT* CONFEZIONAMENTO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "18/11/2026",
+      "dataPubblicazione": "19/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5217"
+    },
     {
       "id": 5243,
       "numAnnuncio": "20265243",
