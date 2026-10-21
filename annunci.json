@@ -1,9 +1,27 @@
 {
-  "aggiornato": "20/10/2026 20:52",
+  "aggiornato": "21/10/2026 13:09",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 109,
+  "totale": 108,
   "annunci": [
+    {
+      "id": 5303,
+      "numAnnuncio": "20265303",
+      "titolo": "Addetti Alle Vendite",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Commessi Delle Vendite Al Minuto",
+      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA 1 ADDETTO/A ALLE VENDITE PER NEGOZIO DI DOMODOSSOLA SPECIALIZZATO IN ARTICOLI DI PROFUMERIA E COSMESI",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "21/10/2026",
+      "dataPubblicazione": "21/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5303"
+    },
     {
       "id": 4272,
       "numAnnuncio": "20264272",
@@ -419,24 +437,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5895"
     },
     {
-      "id": 5870,
-      "numAnnuncio": "20265870",
-      "titolo": "Camerieri Di Bar Pasticceria",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Camerieri Di Ristorante",
-      "qualifica": "CAMERIERI DI BAR PASTICCERIA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "05/11/2026",
-      "dataPubblicazione": "06/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5870"
-    },
-    {
       "id": 3113,
       "numAnnuncio": "20263113",
       "titolo": "Addetto/A Cucina Per Bar",
@@ -633,24 +633,6 @@
       "dataPubblicazione": "22/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0788422388805,8.29945078792245&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5323"
-    },
-    {
-      "id": 5303,
-      "numAnnuncio": "20265303",
-      "titolo": "Addetti Alle Vendite",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Commessi Delle Vendite Al Minuto",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA 1 ADDETTO/A ALLE VENDITE PER NEGOZIO DI DOMODOSSOLA SPECIALIZZATO IN ARTICOLI DI PROFUMERIA E COSMESI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "21/10/2026",
-      "dataPubblicazione": "21/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5303"
     },
     {
       "id": 5207,
