@@ -176,7 +176,8 @@ async def scrapa(comune_search: str, distanza: int, headless: bool) -> list:
 
         # ── Carica pagina ────────────────────────────────────────────
         print(f"[*] Carico {LIST_URL}")
-        await page.goto(LIST_URL, wait_until="networkidle", timeout=60000)
+        await page.goto(LIST_URL, wait_until="domcontentloaded", timeout=60000)
+        await page.wait_for_selector("p-dropdown", timeout=30000)
         await asyncio.sleep(2)
 
         # ── Campo COMUNE (PrimeNG p-dropdown) ────────────────────────
@@ -210,9 +211,8 @@ async def scrapa(comune_search: str, distanza: int, headless: bool) -> list:
         await page.wait_for_selector('button:has-text("CERCA"):not([disabled])', timeout=10000)
         await page.click('button:has-text("CERCA")')
 
-        # Aspetta prima pagina (100 risultati)
-        await page.wait_for_load_state("networkidle", timeout=30000)
-        await asyncio.sleep(4)
+        # Aspetta risposta API o prima pagina
+        await asyncio.sleep(5)
 
         # ── Funzione di arricchimento (usata per lista iniziale e paginazione) ──
         async def arricchisci_batch(items_list: list, headers: dict):
