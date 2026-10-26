@@ -1,9 +1,27 @@
 {
-  "aggiornato": "26/10/2026 10:30",
+  "aggiornato": "26/10/2026 17:30",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 111,
   "annunci": [
+    {
+      "id": 6528,
+      "numAnnuncio": "20266528",
+      "titolo": "Impiegata/O - Art. 1 Legge 68/99",
+      "azienda": "Omegna",
+      "comune": "Domodossola",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Gestione Degli Acquisti Di Beni E Servizi",
+      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA METALMECCANICA CERCA UN/A IMPIEGATA/O DA INSERIRE NEL PROPRIO ORGANICO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "25/11/2026",
+      "dataPubblicazione": "26/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6528"
+    },
     {
       "id": 4738,
       "numAnnuncio": "20264738",
@@ -237,24 +255,6 @@
       "dataPubblicazione": "21/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5303"
-    },
-    {
-      "id": 4272,
-      "numAnnuncio": "20264272",
-      "titolo": "Addetta/O Alle Pulizie - Art. 1 Legge 68/99",
-      "azienda": "Omegna",
-      "comune": "Gravellona Toce",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Operai Addetti Ai Servizi Di Igiene E Pulizia",
-      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA CHE COMMERCIA IN MATERIALI PER L'EDILIZIA CERCA UN/ ADDETTO/A ALLE PULIZIE DA INSERIRE NEL PROPRIO ORGANICO",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "19/11/2026",
-      "dataPubblicazione": "20/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4272"
     },
     {
       "id": 6427,
