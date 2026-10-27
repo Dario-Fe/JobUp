@@ -1,9 +1,27 @@
 {
-  "aggiornato": "26/10/2026 17:30",
+  "aggiornato": "27/10/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 111,
+  "totale": 112,
   "annunci": [
+    {
+      "id": 6542,
+      "numAnnuncio": "20266542",
+      "titolo": "Segretaria Studio Medicina Generale Cercasi",
+      "azienda": "Maio Dott.Ssa Tommasa",
+      "comune": "Arona",
+      "provincia": "Novara",
+      "cpi": "",
+      "contratto": "Apprendistato",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "SEGRETARIA STUDIO MEDICO DI MEDICINA GENERALE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Validato",
+      "dataScadenza": "26/11/2026",
+      "dataPubblicazione": "27/10/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7603765633637,8.55950627919034&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6542"
+    },
     {
       "id": 6528,
       "numAnnuncio": "20266528",
