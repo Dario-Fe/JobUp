@@ -1,9 +1,27 @@
 {
-  "aggiornato": "02/11/2026 11:00",
+  "aggiornato": "02/11/2026 17:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 72,
+  "totale": 70,
   "annunci": [
+    {
+      "id": 6673,
+      "numAnnuncio": "20266673",
+      "titolo": "Addetti/E Vendita Settore Gdo",
+      "azienda": "Manpower Group Srl",
+      "comune": "Gravellona Toce",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Manpower Group Srl",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Commessi Delle Vendite Al Minuto",
+      "qualifica": "ADDETTI/E VENDITA SETTORE GDO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Validato",
+      "dataScadenza": "02/12/2026",
+      "dataPubblicazione": "02/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6673"
+    },
     {
       "id": 6580,
       "numAnnuncio": "20266580",
@@ -509,24 +527,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6424"
     },
     {
-      "id": 6326,
-      "numAnnuncio": "20266326",
-      "titolo": "Addetto/A Alle Colazioni",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Camerieri Di Albergo",
-      "qualifica": "ADDETTO/A ALLE COLAZIONI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "14/11/2026",
-      "dataPubblicazione": "15/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6326"
-    },
-    {
       "id": 6324,
       "numAnnuncio": "20266324",
       "titolo": "Operaio Generico - Art.1 L.68/99",
@@ -543,24 +543,6 @@
       "dataPubblicazione": "15/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6324"
-    },
-    {
-      "id": 4473,
-      "numAnnuncio": "20264473",
-      "titolo": "Grafico",
-      "azienda": "Omegna",
-      "comune": "Verbania",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Grafici",
-      "qualifica": "GRAFICO/A",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "14/11/2026",
-      "dataPubblicazione": "15/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9214076041284,8.55109694538855&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4473"
     },
     {
       "id": 6022,
@@ -813,24 +795,6 @@
       "dataPubblicazione": "02/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5726"
-    },
-    {
-      "id": 5551,
-      "numAnnuncio": "20265551",
-      "titolo": "Saldatore Carpenteria Pesante",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Saldatori E Tagliatori A Fiamma",
-      "qualifica": "SALDATORE SU CARPENTERIA PESANTE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "30/10/2026",
-      "dataPubblicazione": "30/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5551"
     },
     {
       "id": 5059,
