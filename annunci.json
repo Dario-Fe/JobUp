@@ -1,9 +1,27 @@
 {
-  "aggiornato": "01/11/2026 17:30",
+  "aggiornato": "02/11/2026 11:00",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 72,
   "annunci": [
+    {
+      "id": 6580,
+      "numAnnuncio": "20266580",
+      "titolo": "Addetto Segreteria Studio Medicina Generale",
+      "azienda": "Borgomanero",
+      "comune": "Arona",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Apprendistato",
+      "profilo": "Addetti A Funzioni Di Segreteria",
+      "qualifica": "ADDETTO ATTIVITA' DI SEGRETERIA STUDIO MEDICO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "28/11/2026",
+      "dataPubblicazione": "02/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7603765633637,8.55950627919034&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6580"
+    },
     {
       "id": 6624,
       "numAnnuncio": "20266624",
@@ -129,24 +147,6 @@
       "dataPubblicazione": "29/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6608"
-    },
-    {
-      "id": 6580,
-      "numAnnuncio": "20266580",
-      "titolo": "Addetto Segreteria Studio Medicina Generale",
-      "azienda": "Borgomanero",
-      "comune": "Arona",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Apprendistato",
-      "profilo": "Addetti A Funzioni Di Segreteria",
-      "qualifica": "ADDETTO ATTIVITA' DI SEGRETERIA STUDIO MEDICO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "28/11/2026",
-      "dataPubblicazione": "29/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7603765633637,8.55950627919034&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6580"
     },
     {
       "id": 6605,
