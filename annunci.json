@@ -1,8 +1,8 @@
 {
-  "aggiornato": "02/11/2026 17:30",
+  "aggiornato": "03/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 70,
+  "totale": 66,
   "annunci": [
     {
       "id": 6673,
@@ -761,42 +761,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3113"
     },
     {
-      "id": 5734,
-      "numAnnuncio": "20265734",
-      "titolo": "Barista",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Baristi E Professioni Assimilate",
-      "qualifica": "BAR TAVOLA CALDA CERCA 1 ADDETTO/A CAFFETTERIA E SERVIZIO AI TAVOLI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/11/2026",
-      "dataPubblicazione": "02/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5734"
-    },
-    {
-      "id": 5726,
-      "numAnnuncio": "20265726",
-      "titolo": "Installatore Di Impianti Elettrici",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Elettricisti Ed Installatori Di Impianti Elettrici Nelle Costruzioni Civili",
-      "qualifica": "INSTALLAZIONE DI IMPIANTI ELETTRICI, FOTOVOLTAICI, SISTEMI DI ACCUMULO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/11/2026",
-      "dataPubblicazione": "02/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5726"
-    },
-    {
       "id": 5059,
       "numAnnuncio": "20265059",
       "titolo": "Operaio Edile",
@@ -1139,24 +1103,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1864"
     },
     {
-      "id": 1438,
-      "numAnnuncio": "20261438",
-      "titolo": "Impiegato Commerciale Estero - Art.18 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Borgomanero",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Corrispondenti In Lingue Estere E Professioni Assimilate",
-      "qualifica": "IMPIEGATO COMMERCIALE ESTERO",
-      "categoria": "Collocamento mirato – Art. 18 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "28/10/2026",
-      "dataPubblicazione": "05/03/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1438"
-    },
-    {
       "id": 1337,
       "numAnnuncio": "20261337",
       "titolo": "Art. 18 Operaio Metalmeccanico",
@@ -1173,24 +1119,6 @@
       "dataPubblicazione": "27/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1337"
-    },
-    {
-      "id": 1258,
-      "numAnnuncio": "20261258",
-      "titolo": "Addetto/A Alle Pulizie In Tirocinio",
-      "azienda": "Omegna",
-      "comune": "Oggebbio",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Tirocinio",
-      "profilo": "Operai Addetti Ai Servizi Di Igiene E Pulizia",
-      "qualifica": "ADDETTO/A ALLE PULIZIE IN TIROCINIO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "01/11/2026",
-      "dataPubblicazione": "25/02/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9970025612173,8.65295426273856&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1258"
     },
     {
       "id": 1178,
