@@ -1,8 +1,8 @@
 {
-  "aggiornato": "04/11/2026 17:30",
+  "aggiornato": "05/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 68,
+  "totale": 64,
   "annunci": [
     {
       "id": 6703,
@@ -383,24 +383,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5449"
     },
     {
-      "id": 6461,
-      "numAnnuncio": "20266461",
-      "titolo": "Operaio Di Magazzino - Art.1 L.69/99",
-      "azienda": "Borgomanero",
-      "comune": "Paruzzaro",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Gestione Dei Magazzini E Professioni Assimilate",
-      "qualifica": "OPERAIO DI MAGAZZINO - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "26/11/2026",
-      "dataPubblicazione": "27/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7487552746438,8.51339320870221&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6461"
-    },
-    {
       "id": 5566,
       "numAnnuncio": "20265566",
       "titolo": "Educatore Professionale",
@@ -599,24 +581,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6424"
     },
     {
-      "id": 6324,
-      "numAnnuncio": "20266324",
-      "titolo": "Operaio Generico - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Varallo Pombia",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
-      "qualifica": "OPERAIO GENERICO - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "14/11/2026",
-      "dataPubblicazione": "15/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6666817758966,8.63308710293889&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6324"
-    },
-    {
       "id": 6303,
       "numAnnuncio": "20266303",
       "titolo": "Assistente Familiare Convivente",
@@ -687,24 +651,6 @@
       "dataPubblicazione": "13/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.755905194473,8.48679966608119&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6217"
-    },
-    {
-      "id": 6172,
-      "numAnnuncio": "20266172",
-      "titolo": "Addetto/A Alle Vendite Di Prodotti Di Telefonia",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Apprendistato",
-      "profilo": "Commessi Delle Vendite Al Minuto",
-      "qualifica": "CENTRO PER L'IMPIEGO DI OMEGNA CERCA PER NEGOZIO DI TELEFONIA 1 ADDETTO/A ALLE VENDITE/SALES ASSISTANT",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/11/2026",
-      "dataPubblicazione": "12/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6172"
     },
     {
       "id": 3086,
@@ -813,24 +759,6 @@
       "dataPubblicazione": "05/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3113"
-    },
-    {
-      "id": 5059,
-      "numAnnuncio": "20265059",
-      "titolo": "Operaio Edile",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Manovali E Personale Non Qualificato Dell’Edilizia Civile E Professioni Assimilate",
-      "qualifica": "OPERAIO EDILE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/11/2026",
-      "dataPubblicazione": "30/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5059"
     },
     {
       "id": 5207,
