@@ -1,9 +1,27 @@
 {
-  "aggiornato": "05/11/2026 17:30",
+  "aggiornato": "06/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 63,
+  "totale": 62,
   "annunci": [
+    {
+      "id": 5955,
+      "numAnnuncio": "20265955",
+      "titolo": "Magazziniere",
+      "azienda": "Borgomanero",
+      "comune": "Gattico-Veruno",
+      "provincia": "Novara",
+      "cpi": "Borgomanero",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti Alla Gestione Dei Magazzini E Professioni Assimilate",
+      "qualifica": "MAGAZZINIERE CARICO E SCARICO",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "06/11/2026",
+      "dataPubblicazione": "06/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5955"
+    },
     {
       "id": 6777,
       "numAnnuncio": "20266777",
@@ -689,24 +707,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6009"
     },
     {
-      "id": 5955,
-      "numAnnuncio": "20265955",
-      "titolo": "Magazziniere",
-      "azienda": "Borgomanero",
-      "comune": "Gattico-Veruno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Gestione Dei Magazzini E Professioni Assimilate",
-      "qualifica": "MAGAZZINIERE CARICO E SCARICO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "06/11/2026",
-      "dataPubblicazione": "07/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5955"
-    },
-    {
       "id": 4645,
       "numAnnuncio": "20264645",
       "titolo": "Guardie Particolari Giurate",
@@ -723,24 +723,6 @@
       "dataPubblicazione": "07/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4645"
-    },
-    {
-      "id": 5895,
-      "numAnnuncio": "20265895",
-      "titolo": "Operaio Macchina Formatrice - Art.1 L.68/99",
-      "azienda": "Borgomanero",
-      "comune": "Borgo Ticino",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Conduttori Di Macchinari Per La Fabbricazione Di Prodotti In Carta E Cartone",
-      "qualifica": "OPERAIO MACCHINA FORMATRICE - ART.1 L.68/99",
-      "categoria": "Collocamento mirato – Art. 1 L.68/99",
-      "stato": "Preso in carico",
-      "dataScadenza": "05/11/2026",
-      "dataPubblicazione": "06/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6880763567532,8.60389269790483&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5895"
     },
     {
       "id": 3113,
