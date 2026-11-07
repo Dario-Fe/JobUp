@@ -1,27 +1,9 @@
 {
-  "aggiornato": "06/11/2026 17:30",
+  "aggiornato": "07/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 62,
+  "totale": 60,
   "annunci": [
-    {
-      "id": 5955,
-      "numAnnuncio": "20265955",
-      "titolo": "Magazziniere",
-      "azienda": "Borgomanero",
-      "comune": "Gattico-Veruno",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Gestione Dei Magazzini E Professioni Assimilate",
-      "qualifica": "MAGAZZINIERE CARICO E SCARICO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "06/11/2026",
-      "dataPubblicazione": "06/11/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5955"
-    },
     {
       "id": 6777,
       "numAnnuncio": "20266777",
@@ -795,24 +777,6 @@
       "dataPubblicazione": "17/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7090945966706,8.52047424132164&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2551"
-    },
-    {
-      "id": 3614,
-      "numAnnuncio": "20263614",
-      "titolo": "Operatore Socio Sanitario",
-      "azienda": "Borgomanero",
-      "comune": "Borgomanero",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Assistenti Sanitari",
-      "qualifica": "OPERATORE SOCIO SANITARIO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "06/11/2026",
-      "dataPubblicazione": "17/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3614"
     },
     {
       "id": 2185,
