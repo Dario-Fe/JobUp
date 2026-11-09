@@ -1,9 +1,27 @@
 {
-  "aggiornato": "08/11/2026 17:30",
+  "aggiornato": "09/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 60,
   "annunci": [
+    {
+      "id": 6009,
+      "numAnnuncio": "20266009",
+      "titolo": "Addetto/A Customer Service",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Addetti All'Accoglienza E All'Informazione Nelle Imprese E Negli Enti Pubblici",
+      "qualifica": "ADDETTO/A CUSTOMER SERVICE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "07/11/2026",
+      "dataPubblicazione": "09/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6009"
+    },
     {
       "id": 6777,
       "numAnnuncio": "20266777",
@@ -669,24 +687,6 @@
       "dataPubblicazione": "09/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
-    },
-    {
-      "id": 6009,
-      "numAnnuncio": "20266009",
-      "titolo": "Addetto/A Customer Service",
-      "azienda": "Omegna",
-      "comune": "Omegna",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti All'Accoglienza E All'Informazione Nelle Imprese E Negli Enti Pubblici",
-      "qualifica": "ADDETTO/A CUSTOMER SERVICE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "07/11/2026",
-      "dataPubblicazione": "08/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6009"
     },
     {
       "id": 4645,
