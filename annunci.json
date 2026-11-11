@@ -1,8 +1,8 @@
 {
-  "aggiornato": "11/11/2026 10:30",
+  "aggiornato": "11/11/2026 17:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 63,
+  "totale": 64,
   "annunci": [
     {
       "id": 6830,
@@ -111,6 +111,24 @@
       "dataPubblicazione": "09/11/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0027994064425,8.3294459959254&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6763"
+    },
+    {
+      "id": 6525,
+      "numAnnuncio": "20266525",
+      "titolo": "Add. Pulizie E Sistemazione Aree Esterne - L 68/99",
+      "azienda": "Omegna",
+      "comune": "Gravellona Toce",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Operai Addetti Ai Servizi Di Igiene E Pulizia",
+      "qualifica": "OFFERTA RISERVATA AGLI ISCRITTI DEL COLLOCAMENTO MIRATO LEGGE 68/99 ART. 1 PERSONE CON DISABILITA' - AZIENDA CHE COMMERCIA IN MATERIALI PER L'EDILIZIA CERCA UN/ ADDETTO/A ALLE PULIZIE E SISTEMAZIONE AREE ESTERNE DA INSERIRE NEL PROPRIO ORGANICO",
+      "categoria": "Collocamento mirato – Art. 1 L.68/99",
+      "stato": "Preso in carico",
+      "dataScadenza": "09/12/2026",
+      "dataPubblicazione": "09/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.9275867018519,8.43145830578561&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6525"
     },
     {
       "id": 6802,
