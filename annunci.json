@@ -1,8 +1,8 @@
 {
-  "aggiornato": "11/11/2026 22:42",
+  "aggiornato": "12/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 64,
+  "totale": 63,
   "annunci": [
     {
       "id": 6830,
@@ -741,24 +741,6 @@
       "dataPubblicazione": "13/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.755905194473,8.48679966608119&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6217"
-    },
-    {
-      "id": 3086,
-      "numAnnuncio": "20263086",
-      "titolo": "Estetista",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Estetisti E Truccatori",
-      "qualifica": "AVVIATO CENTRO ESTETICO CERCA UN'ESTETISTA CON ESPERIENZA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "11/11/2026",
-      "dataPubblicazione": "09/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3086"
     },
     {
       "id": 4645,
