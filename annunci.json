@@ -1,8 +1,8 @@
 {
-  "aggiornato": "13/11/2026 22:08",
+  "aggiornato": "14/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 64,
+  "totale": 62,
   "annunci": [
     {
       "id": 6956,
@@ -779,24 +779,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6424"
     },
     {
-      "id": 6303,
-      "numAnnuncio": "20266303",
-      "titolo": "Assistente Familiare Convivente",
-      "azienda": "Omegna",
-      "comune": "Beura-Cardezza",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "13/11/2026",
-      "dataPubblicazione": "14/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.0788422388805,8.29945078792245&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6303"
-    },
-    {
       "id": 3113,
       "numAnnuncio": "20263113",
       "titolo": "Addetto/A Cucina Per Bar",
@@ -867,24 +849,6 @@
       "dataPubblicazione": "17/09/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7888209082031,8.43939336518912&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=2185"
-    },
-    {
-      "id": 5069,
-      "numAnnuncio": "20265069",
-      "titolo": "Assistente Familiare Convivente",
-      "azienda": "Omegna",
-      "comune": "Trontano",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Indeterminato",
-      "profilo": "Addetti All'Assistenza Personale",
-      "qualifica": "ASSISTENTE FAMILIARE CONVIVENTE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "13/11/2026",
-      "dataPubblicazione": "09/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.122232131019,8.33448664959544&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5069"
     },
     {
       "id": 5068,
