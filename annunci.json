@@ -1,9 +1,27 @@
 {
-  "aggiornato": "17/11/2026 23:48",
+  "aggiornato": "18/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 64,
   "annunci": [
+    {
+      "id": 3113,
+      "numAnnuncio": "20263113",
+      "titolo": "Addetto/A Cucina Per Bar",
+      "azienda": "Borgosesia",
+      "comune": "Varallo",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Baristi E Professioni Assimilate",
+      "qualifica": "ADDETTO/A BAR E PICCOLA CUCINA CON MINIMA ESPERIENZA NEL SETTORE, ORARIO PART TIME 09:00-14:00, ANCHE WEEKEND, 1 GIORNO DI RIPOSO INFRASETTIMANALE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "18/12/2026",
+      "dataPubblicazione": "18/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3113"
+    },
     {
       "id": 7044,
       "numAnnuncio": "20267044",
@@ -813,24 +831,6 @@
       "dataPubblicazione": "20/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6424"
-    },
-    {
-      "id": 3113,
-      "numAnnuncio": "20263113",
-      "titolo": "Addetto/A Cucina Per Bar",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Baristi E Professioni Assimilate",
-      "qualifica": "ADDETTO/A BAR E PICCOLA CUCINA CON MINIMA ESPERIENZA NEL SETTORE, ORARIO PART TIME 09:00-14:00, ANCHE WEEKEND, 1 GIORNO DI RIPOSO INFRASETTIMANALE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "18/11/2026",
-      "dataPubblicazione": "05/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3113"
     },
     {
       "id": 5207,
