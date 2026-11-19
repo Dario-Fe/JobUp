@@ -1,8 +1,8 @@
 {
-  "aggiornato": "18/11/2026 23:27",
+  "aggiornato": "19/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 69,
+  "totale": 68,
   "annunci": [
     {
       "id": 7053,
@@ -651,24 +651,6 @@
       "dataPubblicazione": "29/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3927"
-    },
-    {
-      "id": 6608,
-      "numAnnuncio": "20266608",
-      "titolo": "Barista",
-      "azienda": "Omegna",
-      "comune": "Domodossola",
-      "provincia": "Verbano Cusio Ossola",
-      "cpi": "Omegna",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Baristi E Professioni Assimilate",
-      "qualifica": "CENTRO IMPIEGO DI OMEGNA CERCA UN/A BARISTA PER BAR DI DOMODOSSOLA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "28/11/2026",
-      "dataPubblicazione": "29/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=46.1153248415716,8.29203801775568&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6608"
     },
     {
       "id": 6593,
