@@ -1,9 +1,27 @@
 {
-  "aggiornato": "20/11/2026 10:30",
+  "aggiornato": "20/11/2026 15:53",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 67,
   "annunci": [
+    {
+      "id": 5449,
+      "numAnnuncio": "20265449",
+      "titolo": "Addetto/A Al Centro Cottura",
+      "azienda": "Borgosesia",
+      "comune": "Varallo",
+      "provincia": "Vercelli",
+      "cpi": "Borgosesia",
+      "contratto": "Lavoro A Tempo Determinato",
+      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
+      "qualifica": "ADDETTO/A CENTRO COTTURA",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "21/11/2026",
+      "dataPubblicazione": "20/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5449"
+    },
     {
       "id": 4645,
       "numAnnuncio": "20264645",
@@ -705,24 +723,6 @@
       "dataPubblicazione": "28/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4918"
-    },
-    {
-      "id": 5449,
-      "numAnnuncio": "20265449",
-      "titolo": "Addetto/A Al Centro Cottura",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Personale Non Qualificato Nei Servizi Di Ristorazione",
-      "qualifica": "ADDETTO/A CENTRO COTTURA",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "21/11/2026",
-      "dataPubblicazione": "28/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5449"
     },
     {
       "id": 6556,
