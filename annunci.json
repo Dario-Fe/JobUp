@@ -1,8 +1,8 @@
 {
-  "aggiornato": "22/11/2026 21:54",
+  "aggiornato": "23/11/2026 10:30",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 59,
+  "totale": 58,
   "annunci": [
     {
       "id": 4645,
@@ -651,24 +651,6 @@
       "dataPubblicazione": "29/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3927"
-    },
-    {
-      "id": 6593,
-      "numAnnuncio": "20266593",
-      "titolo": "Impiegato/A Contabile",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Addetti Alla Contabilità",
-      "qualifica": "IMPIEGATO/A CONTABILE ESPERTO",
-      "categoria": "Offerta ordinaria",
-      "stato": "Condiviso",
-      "dataScadenza": "27/11/2026",
-      "dataPubblicazione": "28/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6593"
     },
     {
       "id": 4922,
