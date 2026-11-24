@@ -1,9 +1,27 @@
 {
-  "aggiornato": "24/11/2026 10:30",
+  "aggiornato": "24/11/2026 17:30",
   "comune": "Verbania",
   "distanzaKm": 30,
   "totale": 62,
   "annunci": [
+    {
+      "id": 7170,
+      "numAnnuncio": "20267170",
+      "titolo": "Assistente Familiare Ad Ore",
+      "azienda": "Omegna",
+      "comune": "Omegna",
+      "provincia": "Verbano Cusio Ossola",
+      "cpi": "Omegna",
+      "contratto": "Lavoro A Tempo Indeterminato",
+      "profilo": "Personale Di Compagnia E Personale Qualificato Di Servizio Alle Famiglie",
+      "qualifica": "ASSISTENTE FAMILIARE AD ORE",
+      "categoria": "Offerta ordinaria",
+      "stato": "Preso in carico",
+      "dataScadenza": "24/12/2026",
+      "dataPubblicazione": "24/11/2026",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8756360971598,8.4089718745019&travelmode=driving",
+      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=7170"
+    },
     {
       "id": 6556,
       "numAnnuncio": "20266556",
@@ -165,24 +183,6 @@
       "dataPubblicazione": "18/11/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=7053"
-    },
-    {
-      "id": 5566,
-      "numAnnuncio": "20265566",
-      "titolo": "Educatore Professionale",
-      "azienda": "Borgomanero",
-      "comune": "Borgomanero",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Educatori Professionali",
-      "qualifica": "EDUCATORE PROFESSIONALE PER CENTRO EDUCATIVO MINORI",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "26/11/2026",
-      "dataPubblicazione": "18/11/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.6988285528268,8.46297993691046&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5566"
     },
     {
       "id": 7051,
@@ -953,7 +953,7 @@
       "qualifica": "AZIENDA DI VARALLO CERCA DISEGNATORE/TRICE DI TESSUTI ISCRITTO ALLE CATEGORIE PROTETTE ART. 18",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "27/05/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=740"
@@ -1025,7 +1025,7 @@
       "qualifica": "ATTREZZISTA MACCHINE AUTOMATICHE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "20/03/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1864"
@@ -1043,7 +1043,7 @@
       "qualifica": "ADDETTO/A TORNERIA E PULITURA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "27/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1337"
@@ -1061,7 +1061,7 @@
       "qualifica": "CONDUZIONE MACCHINE TORNERIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1178"
@@ -1079,7 +1079,7 @@
       "qualifica": "IMPIEGATO/A IN AMMINISTRAZIONE",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "23/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1165"
@@ -1097,7 +1097,7 @@
       "qualifica": "ART. 18 ADDETTO AI SERVIZI DI PULIZIA",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1148"
@@ -1115,7 +1115,7 @@
       "qualifica": "ADD. AL CONFEZIONAMENTO",
       "categoria": "Collocamento mirato – Art. 18 L.68/99",
       "stato": "Preso in carico",
-      "dataScadenza": "29/11/2026",
+      "dataScadenza": "24/12/2026",
       "dataPubblicazione": "20/02/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.7264394845218,8.32787398668144&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=1146"
