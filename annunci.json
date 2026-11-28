@@ -1,8 +1,8 @@
 {
-  "aggiornato": "28/11/2026 00:10",
+  "aggiornato": "28/11/2026 15:12",
   "comune": "Verbania",
   "distanzaKm": 30,
-  "totale": 61,
+  "totale": 58,
   "annunci": [
     {
       "id": 7234,
@@ -797,42 +797,6 @@
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=3927"
     },
     {
-      "id": 4922,
-      "numAnnuncio": "20264922",
-      "titolo": "Addetto All’Assemblaggio Meccanico E Strutturale",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli Industriali Compositi",
-      "qualifica": "ADDETTO ALL’ASSEMBLAGGIO MECCANICO E STRUTTURALE SU GRANITO E CERAMICA (PERITI MECCANICI, QUALIFICA PROFESSIONALE MECCANICA O PREGRESSA ESPERIENZA NEL SETTORE)",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/11/2026",
-      "dataPubblicazione": "28/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4922"
-    },
-    {
-      "id": 4918,
-      "numAnnuncio": "20264918",
-      "titolo": "Addetto Ufficio Tecnico & Controllo Qualità",
-      "azienda": "Borgosesia",
-      "comune": "Varallo",
-      "provincia": "Vercelli",
-      "cpi": "Borgosesia",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Disegnatori Tecnici",
-      "qualifica": "ADDETTO UFFICIO TECNICO & CONTROLLO QUALITÀ",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/11/2026",
-      "dataPubblicazione": "28/10/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=4918"
-    },
-    {
       "id": 6469,
       "numAnnuncio": "20266469",
       "titolo": "Macellaio  Banconiere",
@@ -885,24 +849,6 @@
       "dataPubblicazione": "20/10/2026",
       "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.8140474006475,8.25647098297577&travelmode=driving",
       "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=6424"
-    },
-    {
-      "id": 5207,
-      "numAnnuncio": "20265207",
-      "titolo": "Addetti Assemblaggio E Confezionamento Rubinetti",
-      "azienda": "Borgomanero",
-      "comune": "Boca",
-      "provincia": "Novara",
-      "cpi": "Borgomanero",
-      "contratto": "Lavoro A Tempo Determinato",
-      "profilo": "Assemblatori In Serie Di Articoli In Metallo, In Gomma E In Materie Plastiche",
-      "qualifica": "OPERAIO ASSEMBLATORE",
-      "categoria": "Offerta ordinaria",
-      "stato": "Preso in carico",
-      "dataScadenza": "27/11/2026",
-      "dataPubblicazione": "21/09/2026",
-      "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=45.9214076041284,8.55109694538855&destination=45.678333391316,8.40874210957535&travelmode=driving",
-      "urlFonte": "https://pslp.regione.piemonte.it/pslpwcl/pslpfcweb/consulta-annunci/visualizza-annuncio-profili-ric?id=5207"
     },
     {
       "id": 2185,
